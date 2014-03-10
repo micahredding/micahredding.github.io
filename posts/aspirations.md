@@ -1,5 +1,7 @@
 # Aspirations
 
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ladder_to_sky_Escalera_al_cielo_Stairway_to_heaven.jpg/640px-Ladder_to_sky_Escalera_al_cielo_Stairway_to_heaven.jpg
+
 I hear a lot about how our society sells us on consumerist wants, how magazines convince us we look ugly and need to look better, how car commercials make us lust after cars we don’t need, how our whole economy is premised on the empty ideal of keeping up with the Joneses.
 
 This concept has even been extended to Facebook. Facebook, studies say, makes us unhappy by showing other people at their best. This makes us feel like our lives are worse than they are, and we become dissatisfied and unhappy.
