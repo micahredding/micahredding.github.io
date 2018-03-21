@@ -3,11 +3,11 @@ published: 1999-10
 volume: 2
 issue: 3
 article: 
-file: Cotton Patch 11 1999, updated 1999-11-10
+file: Cotton Patch 11 1999.pub updated 1999-11-10
 notes: |
-    Copied from Source Cotton Patch file, updated 2000-02-06. 
-    Differs somewhat from print version.
-    Making updates from new file, Cotton Patch 11 1999, updated 1999-11-10
+	Copied from Source Cotton Patch file, updated 2000-02-06. 
+	Differs somewhat from print version.
+	Making updates from new file, Cotton Patch 11 1999, updated 1999-11-10
 ---
 The prejudice that presented its ugly head in the lives of Southern people was not unique to those who were reprobates. As a learned tradition, it etched its way into the hearts of many family members who professed Christianity and who should have known better. I take some comfort, however, in the fact that their behaviors often conflicted with their spoken denouncements.
 
@@ -19,7 +19,7 @@ Once, Dad took the family to a neighboring town to hear Brother Keeble in a tent
 
 Later, around 1953, my husband and I were privileged to take our small family to an outdoor meeting in Abilene, Texas in which Brother Keeble and some of his student preachers spoke. I am glad that prejudice did not do its dirty work and rob me of these two special experiences.
 
-When I was teaching school, I discovered and read two wonderful books about African Americans to my students. One book, _Amos Fortune, Free Man_, was about a slave who was given his freedom when he was still a young man, and he spent the rest of his life buying freedom for others. The other book was a biography of George Washington Carver. I never tire of reading about his numerous talents and his unpretentious way of life.
+When I was teaching school, I discovered and read two wonderful books about African Americans to my students. One book, \_Amos Fortune, Free Man\_, was about a slave who was given his freedom when he was still a young man, and he spent the rest of his life buying freedom for others. The other book was a biography of George Washington Carver. I never tire of reading about his numerous talents and his unpretentious way of life.
 
 From musician to botanist, to chemist, to artist, to sports doctor, to educator, Mr. Carver credited all of his talents to God. This man, who recognized God as the source of all his talents,....how could anyone suggest that he did not have a soul?
 
