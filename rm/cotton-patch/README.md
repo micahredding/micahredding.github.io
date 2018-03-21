@@ -1,3 +1,11 @@
+<img src="barn.jpg" width="120" style="float:left" />
+
+<h1 style="float:left">From the Cotton Patch</h1>
+
+*by Someone's Grandma*
+
+### About This
+
 Reconstructing these documents was a bit tricky, because they were converted from Microsoft Publisher documents. Some of the articles had to be reordered, and I had to do that based on my best guess. Some of the articles were mixed up with other articles. 
 
 I’ve tried to reconstruct them as accurately as possible, including bold and italic (I might have missed some on the first two), and preserving spelling and punctuation as closely as possible.
@@ -11,7 +19,7 @@ There may still be a few missing issues.
 I welcome any feedback or improvements.
 
 
-# Conversion Process
+### Conversion Process
 
 Open Microsoft Publisher documents in LibreOffice. Use Web Preview to render them. Copy them as Rich Text. Paste as Rich Text into Markdown formatting. Rearrange or fix text as needed.
 
