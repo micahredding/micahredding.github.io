@@ -1,10 +1,12 @@
 <img src="barn.jpg" width="120" style="float:left" />
-
 <h1 style="float:left">From the Cotton Patch</h1>
 
 *by Someone's Grandma*
 
-### About This
+A series written by Jo Redding during the run of Reddings Magazine, from August 1997-2000(?). Some articles may still be missing.
+
+
+### About This Project
 
 Reconstructing these documents was a bit tricky, because they were converted from Microsoft Publisher documents. Some of the articles had to be reordered, and I had to do that based on my best guess. Some of the articles were mixed up with other articles. 
 
