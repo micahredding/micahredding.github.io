@@ -1,3 +1,11 @@
+---
+published: 1999-04
+volume: 1
+issue: 8/9
+article: 
+file: Cotton Patch Winter 3
+notes: This was a joint issue 1999-03 and 1999-04
+---
 When the weather didn’t permit us to play outside in our *houses *constructed from the great variety of natural products, we simply went indoors and created our “homesteads” with different resources.
 
 The equipment we used for playing “house” indoors was very inexpensive. There were no Barbies and Kens with their dream houses and cars and million dollar wardrobes. We capitalized on a process, which today is called *recycling. *With a few empty oatmeal boxes and shoe boxes, a pair of scissors, and some outdated catalogs from Sears, JC Penney, or Montgomery Ward, we created socio-economic levels of existence that far surpassed the reality of our lives.
