@@ -1,3 +1,10 @@
+---
+published: 1998-06
+volume: 0
+issue: 11
+article: 
+title: From the Cotton Patch, An Aside...
+---
 Working in the cotton fields was very hot, dirty, hard labor, but one of its rewards was that of being close to nature. Little critters, such as grasshoppers, toads, lizards, June bugs, etc. were all there to be watched and studied. Even the “stinging worms,” which the cotton picker had to watch out for, could be interesting to inquiring young minds. Watching butterflies flitting about and bees buzzing in and out of flowers, wondering at busy ants carrying their heavy loads into their anthills, and observing the variety of flowering and nonflowering plants made the hard work less of a drudge. And birds were always around singing, waiting to be identified.
 
 In Alabama, we had robins, blackbirds, Blue Jays, orioles, various wrens, sparrows and woodpeckers. We must have had cardinals, but having been taught a song about a redbird, I might have confused the title of the song for the name of the bird. Since my interest in birds has grown, I have become keenly aware of cardinals and I lure them to our feeders with sunflower seeds. My favorite of all birds to observe, however, is the eastern bluebird, which I don’t remember having seen as a child.
