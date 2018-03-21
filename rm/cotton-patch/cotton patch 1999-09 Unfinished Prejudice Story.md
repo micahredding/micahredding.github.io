@@ -12,5 +12,5 @@ Some of the freed slaves went north believing that they would receive better tre
 It is most sad in all of this, however, when we realize that prejudice was so well ingrained in the thoughts and ideas of people that whether God-fearing, or not, people could not rid themselves of its grip. Even churches and religious educational institutions refused equal rights to the black people. Theatres and restaurants had their back doors and rooms. Buses had their backseats and there were separate toilet facilities for the “coloreds” and “whites”. “White” schools, churches and colleges, including our Christian colleges, were not open to the black race as late as the 1940’s!
 
 
-----
+---- 
 When we have known people who were honestly trying to serve God, yet staunchly held to their prejudicial convictions, we are made aware of how effective early and thorough training can be. It doesn’t matter whether the things taught are based or truth or error, are logical or illogical, it is difficult to break away from their hold.
