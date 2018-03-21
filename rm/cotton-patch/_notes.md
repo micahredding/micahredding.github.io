@@ -10,3 +10,5 @@ Then, after the first 12, I'm not sure the order.
 Reconstructing these documents was a bit tricky, because they were converted from Microsoft Publisher documents. Some of the articles had to be reordered, and I had to do that based on my best guess. Some of the articles were mixed up with other articles. 
 
 I’ve tried to reconstruct them as accurately as possible, including bold and italic (I might have missed some on the first two), and preserving spelling and punctuation as closely as possible.
+
+I welcome any feedback or improvements.
