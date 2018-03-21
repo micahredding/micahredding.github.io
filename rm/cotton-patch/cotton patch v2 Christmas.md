@@ -1,4 +1,9 @@
 ---
+published: 1998-12
+volume: 1
+issue: 5
+article: 
+file: Volume 2
 notes: In the source text, this was mixed up with the fishing story. It also does not appear to show up in the document, perhaps indicating it was deleted. I reconstructed the pieces here. 
 ---
 When I got a funny little windup figure of Popeye one Christmas, it made quite an impression on me. I cannot remember more than three or four gifts throughout my entire childhood, but Popeye is one of those. The little tin man stood about five inches tall, and he had the typical Popeye look complete with one eye shut, a pipe in his mouth and oversized muscles that symbolized his strength. I have wondered many times over as to why I remember the funny little character. There is no remembrance of anything else that I got that Christmas, but I know that we opened our gifts on Christmas Eve, preparing to leave the next morning to go to my grandparents’ home in Puryear, Tennessee. Trips to Mother and Daddy Morgan’s did not happen very often, and the memories of those visits are uniquely their’s. 
