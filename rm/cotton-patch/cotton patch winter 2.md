@@ -1,3 +1,10 @@
+---
+published: 1999-02
+volume: 1
+issue: 7
+article: 
+file: Cotton Patch Winter 2
+---
 What did children do to occupy their minds and free time when there were no TV’s, no Jam Boxes, no stereos nor even radios? There were, also, no telephones on which to talk to friends. During, and for several years following the Great Depression, most parents that I knew did not have money to spend on gasoline to run around from one activity to another. There were basketball games associated with the schools, but even those were not attended by many people that lived beyond walking distance. So what did the children do for recreation?
 
 If you can imagine having no TV’s, no computers, no radios, etc., and if you can picture a home that is not filled with things from Toys ‘R Us or Schwinn’s Cyclery, from K-Mart or even the Dollar Store, then you may be able to understand the task of “finding something to do”. Families were somewhat larger, then, and parents relied on the older siblings to watch for and entertain the younger ones. What better way to keep up with the little ones than to play games with them? Many of the games played during that time had survived through several generations, and some of them are still being played even today. It continues to amaze me to learn that people who grew up in Texas and West Virginia played a lot of the same games that I played while growing up in Alabama.
