@@ -48,6 +48,16 @@
 					<integer>163</integer>
 				</dict>
 			</dict>
+			<key>_notes.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>543357386.92856896</real>
+				<key>version</key>
+				<dict>
+					<key>fb655eafa11e901b9e46187ff65a39ffac2ca569f74119fbd9307415178c632f</key>
+					<integer>201</integer>
+				</dict>
+			</dict>
 			<key>and Mother was quite certain that it was not an edible.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -387,6 +397,9 @@
 			<string>cotton patch volume 2 winter 1.md</string>
 		</array>
 		<array>
+			<string>_notes.md</string>
+		</array>
+		<array>
 			<string>cotton patch volume 2 Christmas.md</string>
 		</array>
 		<array>
@@ -483,7 +496,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fb655eafa11e901b9e46187ff65a39ffac2ca569f74119fbd9307415178c632f</key>
-			<integer>198</integer>
+			<integer>202</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
