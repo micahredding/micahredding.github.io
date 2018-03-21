@@ -3,6 +3,7 @@ published: 1999-10
 volume: 2
 issue: 3
 article: 
+file: 2000-02-06
 notes: Copied from Cotton Patch file. Differs somewhat from print version.
 ---
 The prejudice that presented its ugly head in the lives of Southern people was not unique to those who were reprobates. As a learned tradition, it etched its way into the hearts of Christians who should have known better. The fact that there were conflicts in what some people verbalized with what they did gives me a little comfort as I recall some interactions of family members with black acquaintances.
