@@ -1,3 +1,9 @@
+---
+published: 1997-12
+volume: 0
+issue: 5
+article: 5
+---
 When I was between three and seven years old, my dad was the principal of a school that contained all grades from the first through the twelfth. It was a rural community, but there was little, if any, cotton grown in the neighborhood. Everyone did grow most of their own food, however, and they had to work very hard from the breaking of the land in the spring until the canning or storing of the produce in the fall was completed. School teachers were paid rather meager salaries for nine or ten months of the year, so my parents had to be part-time farmers in order to feed family.
 
 I was so young at this point that I did not work in the fields or garden very much, but I was able to help gather in sweet potatoes with their milk-like juice oozing from the ones that suffered a cut from the plow or hoe. Walking barefoot in the soft plowed earth was a spiritual experience to my young being, and my sticky stained hands didn’t make it any less so. I also helped with drying fruit that we could eat or use in deserts when the season for fresh fruit was gone. We prepared peaches and apples for drying by first removing the inedible parts and then cutting the good juicy fruit into slices. Big cloths or bed sheets were laid out on top of a tin-roofed shed, and on these we spread out the fruit and let the sun do the rest. When the rays from the sun hit the tin roof and heated the fruit from beneath as well as from above, it did not take long to have sweet, dried fruit.
