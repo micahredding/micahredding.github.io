@@ -1,4 +1,9 @@
 ---
+published: 1999-01
+volume: 1
+issue: 6
+article: 
+file: Cotton Patch Winter 1
 notes: This is the fishing story, that also showed up mixed up with the Volume 2 Christmas Story. In that mixed up state, it said Article 13 at top. So perhaps it was Article 13.
 ---
 Winters in my northern Alabama home were not so severe that we had to stay inside for long periods of time, as is so in more northern states. Snows deep enough for snowballing, sledding, or building snowmen were seldom, and I don’t recall a single snowfall that stayed on the ground for days and days.
