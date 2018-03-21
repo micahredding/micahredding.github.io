@@ -1,3 +1,10 @@
+---
+published: 1999-10
+volume: 2
+issue: 3
+article: 
+notes: Copied from Cotton Patch file. Differs somewhat from print version.
+---
 The prejudice that presented its ugly head in the lives of Southern people was not unique to those who were reprobates. As a learned tradition, it etched its way into the hearts of Christians who should have known better. The fact that there were conflicts in what some people verbalized with what they did gives me a little comfort as I recall some interactions of family members with black acquaintances.
 
 My Dad made remarks occasionally that were not becoming to his position as an educator and certainly not to his profession as a Christian minister. Even though I never voiced my disappointment, I can remember having thoughts that something was wrong. On the other hand, I can recall times when Dad showed kindness to people who needed help regardless of who they were.
@@ -14,4 +21,6 @@ My aunt was an educator as were many of my father’s and mother’s family memb
 
 Prejudice can exist between races, between sexes, between rich and poor, between young and old, between educated and uneducated, and it can extend in both directions. The cotton patch had the potential to equalize all who worked in it side by side, but it did not always succeed.
 
+
+----
 Prejudice can rob us of potentially rewarding relationships. Making generalizations is a form of prejudice totally unfair to those in the group who have done nothing wrong. We should be willing to give honor to whom honor is due regardless of social status, race, creed, etc.
