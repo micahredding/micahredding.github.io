@@ -1,14 +1,22 @@
-I don't know the exact ordering of these. There's a confusion in the first group between what they're labeled, and what the documents say themselves.
-
-Then, after the first 12, I'm not sure the order. 
-
-- There's a 3-part winter collection. 
-- There's a "Volume 2" collection, which probably comes after the first 12, but I'm not sure. I'm also not sure what order they should be in. One of them is a Christmas article, which might have been published—but I don't know. 
-- There's a 98 bluebird document, which I think should be two parts. 
-- There's a set in 99, leading up to an unfinished one, which has several versions. My guess is that none of those were published.
-
 Reconstructing these documents was a bit tricky, because they were converted from Microsoft Publisher documents. Some of the articles had to be reordered, and I had to do that based on my best guess. Some of the articles were mixed up with other articles. 
 
 I’ve tried to reconstruct them as accurately as possible, including bold and italic (I might have missed some on the first two), and preserving spelling and punctuation as closely as possible.
 
+There's a confusion in the first group between what they're labeled, and what the documents say themselves.
+
+Afterwards, I looked at print copies to try to make small updates, and to get publishing information.
+
+There may still be a few missing issues.
+
 I welcome any feedback or improvements.
+
+
+# Conversion Process
+
+Open Microsoft Publisher documents in LibreOffice. Use Web Preview to render them. Copy them as Rich Text. Paste as Rich Text into Markdown formatting. Rearrange or fix text as needed.
+
+Some articles were more difficult, not showing up in the preview at all. Those, I had to pull from the hidden text source. This was even more difficult to detangle. 
+
+Some of the text of these articles was mixed up with the text of other articles. 
+
+Afterwards, I looked at print copies to try to make small updates, and to get publishing information.
