@@ -1,3 +1,6 @@
+---
+published: 1998-08
+---
 We may truly believe in the accuracy of our memories, only to discover years later that our version of what happened disagrees with the versions of others who were there. This can be particularly true of children who blindly trust others and who tend to take things literally. Children whose older siblings tease or use scare tactics may have memories of what was told them or what was impressed on their emotions rather than what really happened.
 
 Having two older sisters who sometimes worked together in creating impressions on me, I had some ‘memories’ that were later “put to the test” and found wanting. In laying the foundation for one particular story, however, it seems reasonable to relate things that they did to me before my memory kicked in. As you read this, please, keep in mind that all is told in sisterly love... for they have long since been forgiven.
