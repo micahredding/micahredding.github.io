@@ -1,3 +1,10 @@
+---
+published: 1999-06
+volume: 1
+issue: 10
+article: 
+notes: This was a joint issue, 1999-05 and 1999-06, or issue 10/11.
+---
 When cotton blooms fall off the plants, little leafy *squares* form, and they, in turn, grow into egg-shaped green *bolls* that hold the tight, wet cotton fibers inside. As the bolls mature, the hot sun performs one of nature’s wondrous works. The wet cotton inside its neat little package gradually dries out, becoming fluffier and fluffier until it bursts the shell and pops out into long white strands. In the days of manual labor, a field was ready for the first picking when about one-third to one-half of the bolls were open.
 
 The main piece of equipment for a cotton picker was a long sack made of heavy ducking or canvas material. For the adults, there were sacks six to seven feet long, and for the younger ones the sacks were three to five feet long. Each sack had a strap that went around one side of the neck and under the opposite arm. The opening hung loose under the arm to make it accessible for receiving the handfuls of cotton. One might choose to wear gloves and knee pads, but long sleeved shirts and wide-brimmed hats were necessities.
