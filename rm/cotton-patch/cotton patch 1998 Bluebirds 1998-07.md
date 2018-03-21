@@ -3,7 +3,7 @@ published: 1998-07
 volume: 0
 issue: 12
 article: 
-title: Bluebirds 1998, Aside #2 from “From the Cotton Patch” by Someone’s Grammaw
+title: "Bluebirds 1998, Aside #2 from “From the Cotton Patch” by Someone’s Grammaw"
 ---
 Whenever I see Father Bluebird sitting on top of a nesting box flapping his wings and “singing” in a low raspy voice, I know that there is a Mother bluebird out there watching and listening. The prospective father will go in and examine the proposed home and return to his singing and wing flapping on top of the box until the female comes onto the scene.
 
