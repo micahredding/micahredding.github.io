@@ -6,8 +6,6 @@ article:
 notes: Copied from Cotton Patch 1999-09, updated with edits from print version.
 ---
 
-As we seriously look at what happened in the minds and hearts of many honest, God-fearing people during the troublesome times of slavery, we must continue to examine ourselves for similar delusions that rob us of our abilities to know right from wrong.  
-
 The hard labor that characterized the daily routine of slaves, was often relieved by the singing of songs that revealed their inner struggles. Many of these songs, that we also loved and sang,  described  the bleakness and harshness of their  lives, but  most of them  revealed hope in something better to come.
 
 As we sang, we didn’t  realize the significance of  such songs as “Carry Me Back to Ole Virginny”, “Old Folks at Home”, and “My Old Kentucky Home” which speak about  longings to be reunited with families that slavery had separated.  Neither could we feel the pain that inspired such songs as “Uncle Ned”, “Massa’s in the Cold Ground”, and “Ole Black Joe.” According to the words of the song, ‘Ned’ was a good, hard worker who had died and was going to be sorely missed  by his ‘Massa’. The sad feelings experienced by slaves at the death of a kind and gentle master are verbalized in the song about Massa in the cold ground, and ‘Joe’ describes how the vigor that he felt in his younger days has turned to sadness because so many of his family and friends have died and he is left all alone. He ‘hears’ them gently calling to him, and his desire is contained in the words, “I’m coming, I’m coming , for my head is bending low; I hear the gentle voices calling, “Old Black Joe.”
@@ -26,6 +24,8 @@ The prejudicial attitudes that existed in Alabama in those days had resulted in 
 
 Will came early every morning, worked all day and walked home each evening after his work was done. While everyone else ate lunch in the dining room, Will always ate sitting on the edge of the porch or in the kitchen depending on the weather. 
 
-Many lines of demarcation had been established, so when another black man came occasionally to pick cotton, it must  have been unacceptable for me to admire him, but admire him I did. He sometimes sang as he worked and his voice seemed to me to be right out of heaven! I don’t even remember his name, but I remember having asked him more than once to sing as we worked side by side at the same kind of job under the same hot Alabama sun, now made more bearable by the music pouring forth from this poor man’s soul. My recognition of something great in this lowly being may have been the beginning of the end of whatever prejudice I had acquired from my community. 
+Many lines of demarcation had been established, so when another black man came occasionally to pick cotton, it must  have been unacceptable for me to admire him, but admire him I did. He sometimes sang as he worked and his voice seemed to me to be right out of heaven! I don’t even remember his name, but I remember having asked him more than once to sing as we worked side by side at the *same* kind of job under the *same* hot Alabama sun, now made more bearable by the music pouring forth from this *poor man’s soul*. My recognition of something great in this lowly being may have been the beginning of the end of whatever prejudice I had acquired from *my* community. 
+
 
 ---- 
+As we seriously look at what happened in the minds and hearts of many honest, God-fearing people during the troublesome times of slavery, we must continue to examine ourselves for similar delusions that rob us of our abilities to know right from wrong.
