@@ -1,3 +1,9 @@
+---
+published: 1998-02
+volume: 0
+issue: 7
+article: 7
+---
 Washday was a very memorable event before washing machines took over the hard work. Private wells had brought the water supply closer to most families, and the method of bringing water out of the wells went through several improvements making the process easier and more efficient. The method of removing dirt from clothes, however, had advanced very little over that of the days when people washed on the banks of rivers and creeks.
 
 The hand-over-hand method of pulling on a rope to draw water from a well was replaced by the pulley and, or, windlass. The vacuum hand pump was probably the greatest advancement before electricity, but most of our neighbors were still drawing water by hand when the first washing machines appeared. The only tools available for washing, up to that time, consisted of a big black washpot, some tin tubs (which doubled as bathtubs on Saturday nights), a washboard, some homemade lye soap and a lot of muscle power.
