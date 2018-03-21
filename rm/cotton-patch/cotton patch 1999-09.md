@@ -3,6 +3,7 @@ published: 1999-09
 volume: 2
 issue: 2
 article: 
+file: 1999-09-29
 notes: Copied from Cotton Patch 1999-09, updated with edits from print version.
 ---
 
