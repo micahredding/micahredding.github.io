@@ -1,3 +1,9 @@
+---
+published: 1998-09
+volumne: 1
+issue: 2
+article: 12
+---
 When a student’s father is the school principal, it can be either an advantage or a disadvantage, depending on circumstances. My father was my principal for most of my public school years, and it generally gave me a feeling of security, but there were a few times when I wished that he didn’t have to know about my less-than-perfect behavior. The following incident happened when I was in the first or second grade and my two sisters were in upper elementary or Junior High, which were all in the same school complex.
 
 My hair was blond, very straight and shingled in the back. If I ever had a curl it certainly was not natural. There was a time when my sisters decided to either wave or curl my hair, and since it was before setting gels and hairspray, a mixture of sugar and water was used to do the “holding” job! Do I need to tell you what happened when they tried to comb through it? Anyway, all you need to know before my intended story is that my hair was unquestionably straight.
@@ -18,4 +24,4 @@ My sister, as many siblings have done through the years, used the threat of a po
 ---- 
 I believe the security of having parents that deal justly and with understanding, when a child’s behavior is unacceptable, helps the child develop a desire to do well.
 
-*(Next time: The Unforgettable Lie) *(Article # 12)
+*(Next time: The Unforgettable Lie)*
