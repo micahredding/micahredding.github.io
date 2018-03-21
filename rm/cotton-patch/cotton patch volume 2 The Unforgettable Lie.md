@@ -3,7 +3,7 @@ published: 1998-10
 volume: 1
 issue: 3
 article: 13
-notes: In the source text, it said (pound) 15 at top. Article 12 (in our current numbering) said that there would be an Article 12 The Unforgettable Lie in the following installment. I believe that to be this, so I’ve titled it accordingly. Given that the numbering was off, I believe this may be Article 13, or perhaps was intended to be next, but was superseded by some other articles first.
+notes: "In the source text, it said #15 at top. Article 12 (in our current numbering) said that there would be an Article 12 The Unforgettable Lie in the following installment. I believe that to be this, so I’ve titled it accordingly. Given that the numbering was off, I believe this may be Article 13, or perhaps was intended to be next, but was superseded by some other articles first."
 ---
 When habitual liars are questioned as to the validity of their stories, they sometimes act surprised that they are not believed. Whether they are so caught up in their own fantasies that they don’t know what is real, or whether they do it in order to feign innocence, one may never be able to determine. Then there are other individuals who, when caught in infrequent lying, are so obvious that they don’t try to fake innocence. They can be so pricked in their consciences that they will avoid future lying at all costs.
 
