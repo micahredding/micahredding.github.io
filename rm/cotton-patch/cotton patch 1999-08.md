@@ -1,3 +1,10 @@
+---
+published: 1999-08
+volume: 2
+issue: 1
+article: 
+---
+
 The cotton patch was was not only a workplace, it was a virtual schoolroom in which one could learn about plants, animals, birds, insects and types of soil. One could learn about soil erosion, the effects of too much or too little rain on the growth of plants and how that would affect crop production. Changes in the position of Earth with respect to the sun was observed in the shadows. We learned to watch as our shadows grew shorter and shorter. When we could stand on our heads, we knew it was lunchtime! We also watched when our shadows got long, letting us know that quitting time was near.
 
 The various shapes and colors of the clouds triggered our imaginations, and as we watched the illusive figures of animals and men, we could see indications of changes in the weather. The movements of the clouds were as true in telling wind direction as the wind vanes that often adorned barns and farm houses, and the dark undersides of the otherwise white fluffy cumulus clouds hinted of rain.
@@ -24,3 +31,5 @@ The mindset of the South with respect to the black race had its beginnings befor
 
 ---- 
 Knowing that early training and teaching can have such a strong influence in the lives of our children, we must make sure that those things that we teach are good and true and approved of God.
+
+*Next time: the forbidden idol*
