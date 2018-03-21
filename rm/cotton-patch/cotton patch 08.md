@@ -1,3 +1,9 @@
+---
+published: 1998-03
+volume: 0
+issue: 8
+article: 8
+---
 **Where there's a will, there's a way!** Whether that is a universal truth or not, it appears to have a lot of credibility in view of numerous tasks that have been accomplished against all odds.
 
 Dad needed a method of income during the weeks that school was not in session, and he always seemed to find something to supply that need. Well, when he became aware of the "new-fangled" washing machine, he saw not only something **his** wife needed, he saw something that **all** women needed. That meant there would be a wide-open market, once people knew that these machines were the marvel he saw them to be.
