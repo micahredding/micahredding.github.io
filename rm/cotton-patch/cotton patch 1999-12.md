@@ -1,4 +1,8 @@
 ---
+published: 1999-11 (probably, but references December, and was in December file)
+volume: 2
+issue: 4
+
 file: Cotton Patch 12 1999.pub
 notes: copied from LibreOffice web preview
 ---
