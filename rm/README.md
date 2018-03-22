@@ -1,6 +1,6 @@
 # Reddings Magazine
 
-Reddings Magazine was published from 1997-2000.
+Reddings Magazine was published from 1997-2001.
 
 
 ## Volume 0, pre-release issue
@@ -57,4 +57,4 @@ Reddings Magazine was published from 1997-2000.
 1. 2001-04
 1. 2001-05
 1. 2001-06
-1. 2001-07
+1. 2001-07 Final Issue (?)
