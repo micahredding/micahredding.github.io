@@ -6,7 +6,6 @@ article:
 file: 1999-09-29
 notes: Copied from Cotton Patch 1999-09, updated with edits from print version.
 ---
-
 The hard labor that characterized the daily routine of slaves, was often relieved by the singing of songs that revealed their inner struggles. Many of these songs, that we also loved and sang,  described  the bleakness and harshness of their  lives, but  most of them  revealed hope in something better to come.
 
 As we sang, we didn’t  realize the significance of  such songs as “Carry Me Back to Ole Virginny”, “Old Folks at Home”, and “My Old Kentucky Home” which speak about  longings to be reunited with families that slavery had separated.  Neither could we feel the pain that inspired such songs as “Uncle Ned”, “Massa’s in the Cold Ground”, and “Ole Black Joe.” According to the words of the song, ‘Ned’ was a good, hard worker who had died and was going to be sorely missed  by his ‘Massa’. The sad feelings experienced by slaves at the death of a kind and gentle master are verbalized in the song about Massa in the cold ground, and ‘Joe’ describes how the vigor that he felt in his younger days has turned to sadness because so many of his family and friends have died and he is left all alone. He ‘hears’ them gently calling to him, and his desire is contained in the words, “I’m coming, I’m coming , for my head is bending low; I hear the gentle voices calling, “Old Black Joe.”

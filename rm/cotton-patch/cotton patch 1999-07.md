@@ -4,7 +4,6 @@ volume: 1
 issue: 12
 article: 
 ---
-
 Washing dishes in the days before dishwashers or even before running water was a rather tedious job. The water had to be drawn from a well and brought into the house in buckets. If one were fortunate enough to have a built-in reservoir on the cookstove, it was filled with water which got hot while the food was being cooked. In the absence of a reservoir, a teakettle or large pot was filled with water and placed on top of the stove in order for the water be hot, ready when the meal was finished.
 
 When the food was put away after a meal, two deep round pans were placed on the table and these were filled with hot water. One was used for washing the dishes, and the other was used for rinsing them. My mother liked to pile the washed dishes in an empty pan until it was full and then pour boiling hot water over them. This was supposed to do a better job of sanitizing the dishes, but it was hardly a job for a young person to try.
