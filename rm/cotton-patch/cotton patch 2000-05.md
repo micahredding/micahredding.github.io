@@ -1,4 +1,7 @@
 ---
+published: 2000-05
+volume: 2
+issue: 9-10 (2000-04, 2000-05)
 file: Cotton Patch 5.23. 2000.pub
 notes: Copied from buried source text
 ---
