@@ -3,7 +3,12 @@
 Reddings Magazine was published from 1997-2001.
 
 ## Columns:
-[From the Cotton Patch](cotton-patch)
+[From the Cotton Patch][1]  
+The Best Dirt  
+Millennium  
+That’s Hilarious  
+At Our House  
+Ask Reda  
 
 ## Index:
 
@@ -60,3 +65,5 @@ Reddings Magazine was published from 1997-2001.
 1. 2001-05 ?
 1. 2001-06 ?
 1. 2001-07 Final Issue — Spring 2001 (date?)
+
+[1]:	cotton-patch
