@@ -7,7 +7,7 @@ A series written by Jo Redding during the run of Reddings Magazine, from August 
 
 ### TOC
 
-
+Currently missing 1999-12 and 2000-01, that appear in print. Unsure whether there were any issues after 2000-07, and before the final issue.
 
 
 ### About This Project
