@@ -1,5 +1,5 @@
-<img src="barn.jpg" width="120" style="float:left" />
-<h1 style="float:left">From the Cotton Patch</h1>
+<img src="barn.jpg" width="120" />
+<h1>From the Cotton Patch</h1>
 
 *by Someone's Grandma*
 
