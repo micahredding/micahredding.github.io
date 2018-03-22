@@ -45,7 +45,7 @@ Reddings Magazine was published from 1997-2001.
 6. 2000-01 (mislabeled Volume 1, Issue 6)
 1. 2000-02, 2000-03 — issue 7/8
 1. 2000-04, 2000-05 — issue 9/10
-1. 2000-06, 2000-07 — issue 11/12
+1. 2000-06, 2000-07 — issue 11/12 — #48
 
 ### Volume 3
 1. 2000-08
