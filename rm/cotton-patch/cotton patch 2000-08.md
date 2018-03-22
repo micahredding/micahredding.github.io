@@ -1,4 +1,7 @@
 ---
+published: 2000-07
+volume: 2
+issue: 11/12 (2000-06, 2000-07)
 file: Cotton Patch Aug. 2000.pub
 notes: copied from LibreOffice web preview
 ---
