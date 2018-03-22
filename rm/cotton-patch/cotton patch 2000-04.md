@@ -1,4 +1,7 @@
 ---
+published: 2000-03
+volume: 2
+issue: 7-8 (2000-02,2000-03)
 file: Cotton Patch 4. 2000.pub
 ---
 Recently, I had the privilege of revisiting several of the places where my childhood memories have taken me in the stories from the Cotton Patch. It was a rewarding visit, complete with the nostalgia that we experience when we realize that those times of the past are only memories. The joy of the experience was made greater by the presence of two of my sisters, who have shared in my memories, and my husband who has encouraged me to write about them.
