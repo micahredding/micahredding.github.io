@@ -1,3 +1,9 @@
+---
+published: 1997-11
+volume: 0
+issue: 4
+article: 4
+---
 When one works as hard as we worked in the cotton fields to earn money, it becomes of utmost importance how that money will be spent.  I don't remember as much about how I used money earned from chopping cotton as that which I earned later in the year from picking cotton, but you can be sure it was not spent lightly.  Once, I lost a one-dollar bill, and I was devastated. After looking everywhere I could think of, I lost all hope of finding it. A few days later as I was putting on a pair of knee-length socks, I found a clean, washed, one dollar bill in the toe of one of them (A long sock is a good place to tuck paper money if you don't forget where you put it!) 
 
 A field of cotton was chopped, or hoed, at least twice before being left to bloom and mature. The second chopping was primarily to clean out the weeds, but sometimes one or two good stalks were definitely stronger than the others in a group.  Where there were weak, sickly plants that would draw nourishment that could be put to better use by  the healthier ones, the weak ones were sacrificed to the chop of the hoe.

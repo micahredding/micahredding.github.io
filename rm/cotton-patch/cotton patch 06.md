@@ -1,3 +1,9 @@
+---
+published: 1998-01
+volume: 0
+issue: 6
+article: 6
+---
 Whenever someone in our community had a new “contraption”, it was an awesome thing and sometimes it was shared by the whole community!
 
 In the previous article, I promised to tell about modern lights, radios, and washing machines. Well, it was still a long time before we would have the luxury of electricity, but when we graduated from kerosene lamps to gasoline lanterns, we were truly “uptown”! The intensity of the light given out by the lanterns was much greater than the smelly old kerosene lamps, but they were not without problems. Occasionally, a lantern could catch on fire and cause quite a stir. If my memory serves me correctly, my dad once picked up a burning lantern and threw it out the door into the front yard! Perhaps a blanket, or quilt, was not readily available, or the fire may have been so fierce that it would not have smothered very easily. Whether another way of dealing with the fire would have been better or not, we were safe, the house did not burn and nothing in the yard caught on fire!

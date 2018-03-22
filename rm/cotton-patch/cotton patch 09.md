@@ -1,3 +1,9 @@
+---
+published: 1998-04
+volume: 0
+issue: 9
+article: 9
+---
 When an* Old Timer *like myself recalls “The Good Old Days”, the big, the bad and the ugly are often forgotten. I don’t want my grandchildren to accuse me of showing them my childhood through rose-colored glasses, so here is a chapter of “The Rest of the Story.”
 
 It’s true that I actually enjoyed living in rural Alabama in a somewhat impoverished condition, and it’s true that I did not mind the hard labor of working in the cotton fields, of chopping firewood, of feeding pigs and chickens, of helping plant, weed and harvest in the garden. Perhaps, of all the things that I had to do, the least enjoyment came from milking the cow (after I got over the thrill of learning how!) I loved the outdoors, and most of my work tended to be outside. Perhaps that is why my priorities, today, are noticeably not in keeping an immaculate house. In that time and that place, everyone pretty much experienced the same way of life. Our family was not at the bottom of the economic ladder, but it certainly was not near the top. Because our parents worked in education and in church ministry, we enjoyed a great deal of respect among most of our neighbors, and that made up for some of the financial instability.

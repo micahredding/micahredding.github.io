@@ -1,3 +1,9 @@
+---
+published: 1997-09
+volume: 0
+issue: 2
+article: 2
+---
 When I left you before, we were bouncing along in a wagon going out to a cotton field to “hoe cotton”. Sounds exciting, doesn’t it? Well, believe it or not, it was a happy time for me. The fresh air, the blossoming flowers, butterflies flitting from flower to flower, birds singing or hopping around in search of nice juicy worms or berries...the world all around me...it was mine, and I was a part of it. Today it would take many pages to teach children all the things that I absorbed from my environment, and they would miss the most wondrous part of all.... the feel of it! 
 
 The words in a book can’t make the sweet sounds of the songbirds or the harsher cries of bluejays and crows. They can’t cause the mind to imagine what kind of poor creature is lying dead over there in the woods where the buzzards are circling around. We could feel sympathy for the farmer until he knew it wasn’t a valuable cow, calf, horse, pony, or pig. We could be saddened by the fact of death, but it was accepted as the nature of  things. Words can not bring to one’s nostrils the smell of sweetbriers, honeysuckle or clover, nor can they create a true visualization of trumpet vines blooming on the fences with hummingbirds and bees darting in and out of their long red throats. 

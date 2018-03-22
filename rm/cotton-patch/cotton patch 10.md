@@ -1,3 +1,9 @@
+---
+published: 1998-05
+volume: 0
+issue: 10
+article: 10
+---
 Whenever Mother knew that some of the children in school had scabies (itch), she was ready and waiting for one of her own children to start scratching. I’m sure she kept up with the latest treatments offered by the medical world, and even though sulfur and grease was considered a reputable cure, it took **time **to do its job. So when Mother heard of the “30 Minute Cure”, there was no justification for denying her family of this modern method of dealing with the problem.
 
 The time came when we, or some of us, started scratching, and Mother was ready. No more days and days for her children to get rid of the little critters that were buried under their skin causing the red rash with its awful itching. Her children were going to be cured in thirty minutes........ The only picture that I have retained about that memorable scene is that a #3 “bathtub” was in the middle of the room when Mother began treating her afflicted children. I do not know who was first nor how many of us were introduced to the “miraculous” liquid, before the howling became so intense that our dad jerked up the miracle cure and threw it out the door and into the yard (the same yard he had thrown the burning lantern into a few chapters back). I don’t recall that any of us were treated for scabies after that, nor do I recall Dad throwing anything else out of the house!

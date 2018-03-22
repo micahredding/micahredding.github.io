@@ -1,3 +1,9 @@
+---
+published: 1997-10
+volume: 0
+issue: 3
+article: 3
+---
 We youngsters would be paid by the day, but before I tell you how much, there are some other things you need to know.
 
 Living out in the country was truly a blessing to poor parents who could not afford to have their children longing after the luxuries so readily available in “city” stores. Many communities had their own country store that sold necessities, but it was truly a unique experience to go into *town* to shop.  I remember a “peddling” store making scheduled visits into our neighborhood when I was 5 or 6 years old, and it was from it that we bought many needed items.  Mother could buy flour, sugar, salt, etc., and I remember her buying material with which to make dresses. The only nonessential that I recall buying from the peddler was bubble gum. Round, fat pieces of Double Bubble and long cylindrical pieces of “Baloney” (I'm not sure of the spelling) gum cost one penny each. Although we didn't buy candy bars at that time, I  know they were no more than a nickel a piece, and soda pops could also be bought for a nickel.
