@@ -1,5 +1,8 @@
 ---
 file: Cotton Patch October. 2000.pub
+published: 2001-07 (probably)
+volume: 3 (not labeled)
+issue: final issue
 notes: copied from LibreOffice web preview
 ---
 With the setting of the sun not too far away, we looked back over the picked field, elated that it was finished. There were many green bolls remaining on the stalks, some of which were bulging at the “seams” from the expanding cotton inside them that would need to be picked later. But for now, we were tired and glad that there would be a few days before the next picking.
@@ -20,4 +23,5 @@ When we arrived at the gin, we had to wait in line for the big suction tube that
 After the cotton was inside the gin it went through some processes that removed leaves, sticks and pieces of cotton bolls that had found their way into the sacks of cotton. Then we watched as the big long bins with rotating “teeth” bit into the cotton fibers and removed the seeds which spilled into conduits that carried them to the seed house. The clean, seedless cotton was whisked through a passageway that ended at a press that had been lined in the bottom with a big piece of material that looked like heavy “toesacking”, under which long metal bands were waiting to be tied around the whole bundle as it was compressed into a very compact bale of cotton which would weigh around 500 pounds. As the bale rolled from the press into the yard it was ready to take home or to sell there. The cotton seeds were also the farmer’s to take home or to sell to the gin company.
 
 The cycle was near the end. From the planted seed to the bale of cotton, a farmer put in many hours of hard work and provided many hours of opportunity for others to earn money and to experience a great miracle of nature. Today, man’s processes have changed drastically, but God’s has needed no improvement.
+
 If cotton fields could talk, they would tell you many more interesting stories than I have, from the lives of others who learned some of life’s great lessons while bowing their wills to work in a cotton patch! May each of you have had your own special “cotton patch”.
