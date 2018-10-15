@@ -9,9 +9,18 @@ A series written by Jo Redding during the run of Reddings Magazine, from August 
 
 Currently missing 1999-12 and 2000-01, that appear in print. Unsure whether there were any issues after 2000-07, and before the final issue.
 
-[cotton patch 001](cotton patch 001)  
-[cotton patch 002](cotton patch 002)  
+[cotton patch 01](cotton patch 01)  
+[cotton patch 02](cotton patch 02)  
+[cotton patch 03](cotton patch 03)  
+[cotton patch 04](cotton patch 04)  
+[cotton patch 05](cotton patch 05)  
+[cotton patch 06](cotton patch 06)  
+[cotton patch 07](cotton patch 07)  
+[cotton patch 08](cotton patch 08)  
+[cotton patch 09](cotton patch 09)  
+[cotton patch 10](cotton patch 10)  
 
+...
 
 ### About This Project
 
