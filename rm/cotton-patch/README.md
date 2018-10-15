@@ -9,6 +9,8 @@ A series written by Jo Redding during the run of Reddings Magazine, from August 
 
 Currently missing 1999-12 and 2000-01, that appear in print. Unsure whether there were any issues after 2000-07, and before the final issue.
 
+[cotton patch 01][1]  
+
 [cotton patch 01](cotton patch 01)  
 [cotton patch 02](cotton patch 02)  
 [cotton patch 03](cotton patch 03)  
@@ -46,3 +48,7 @@ Some articles were more difficult, not showing up in the preview at all. Those, 
 Some of the text of these articles was mixed up with the text of other articles. 
 
 Afterwards, I looked at print copies to try to make small updates, and to get publishing information.
+
+
+
+[1]: cotton patch 01
