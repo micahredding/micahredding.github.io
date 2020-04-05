@@ -5,10 +5,7 @@ title: 'Protocols: Files'
 path: 2011/08/31/protocols-files
 created_at: 2011-08-31 05:46:50.000000000 Z
 updated_at: 2013-01-11 06:43:51.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 tags:

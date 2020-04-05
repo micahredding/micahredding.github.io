@@ -6,9 +6,7 @@ path: 2012/05/24/i-dont-speak-language
 created_at: 2012-05-25 00:02:00.000000000 Z
 updated_at: 2012-05-25 00:02:00.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 series:

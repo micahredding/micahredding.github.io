@@ -6,9 +6,7 @@ path: 2011/11/30/simulation-argument-remixed
 created_at: 2011-11-30 16:22:23.000000000 Z
 updated_at: 2011-12-09 20:21:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 tags:

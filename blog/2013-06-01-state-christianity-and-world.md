@@ -6,7 +6,6 @@ path: 2013/06/01/state-christianity-and-world
 created_at: 2013-06-01 15:07:59.000000000 Z
 updated_at: 2017-04-14 14:27:58.507165000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059745/escalator1.jpg
 categories:

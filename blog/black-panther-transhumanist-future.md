@@ -1,6 +1,5 @@
 ---
 id: 557
-drupal_id: 
 title: Black Panther is the Transhumanist Future We Need
 path: black-panther-transhumanist-future
 created_at: 2018-02-19 14:12:09.668706000 Z

@@ -6,7 +6,6 @@ path: 2011/10/02/who-i-will-be
 created_at: 2011-10-02 06:20:19.000000000 Z
 updated_at: 2017-04-14 14:27:59.064438000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060324/IMG_4996_0.jpg
 categories:

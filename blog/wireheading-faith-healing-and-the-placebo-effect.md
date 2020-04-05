@@ -1,6 +1,5 @@
 ---
 id: 542
-drupal_id: 
 title: Wireheading, Faith Healing, and Why the Placebo Effect is the Most Important
   Thing in the World
 path: wireheading-faith-healing-and-the-placebo-effect

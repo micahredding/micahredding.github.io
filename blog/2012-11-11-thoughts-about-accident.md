@@ -6,9 +6,7 @@ path: 2012/11/11/thoughts-about-accident
 created_at: 2012-11-11 23:36:16.000000000 Z
 updated_at: 2012-11-11 23:36:16.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

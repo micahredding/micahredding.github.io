@@ -6,9 +6,7 @@ path: 2010/01/05/science-fiction-and-jesus
 created_at: 2010-01-05 22:38:00.000000000 Z
 updated_at: 2012-03-09 05:34:25.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

@@ -6,7 +6,6 @@ path: 2015/03/13/what-technology
 created_at: 2015-03-13 05:16:02.000000000 Z
 updated_at: 2017-11-10 02:24:44.423902000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1453059666/image_2155e-Modern-Europeans.jpg
 categories:

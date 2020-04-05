@@ -4,11 +4,8 @@ drupal_id: 4415
 title: There Is No Hell (part 1)
 path: 2008/09/15/there-no-hell-part-1
 created_at: 2008-09-15 15:26:37.000000000 Z
-updated_at: 2014-09-22 21:56:56.000000000 Z
-promoted: false
-featured: false
+updated_at: 2019-04-29 16:42:06.077887000 Z
 state: published
-main_image: 
 categories:
 - Theology
 tags:
@@ -63,7 +60,7 @@ The doctrine of hell is important, because it tells us what kind of God we have.
 <strong>
 The Idea of Justice
 </strong>
-Unfortunately, when trying to disprove a pervasive concept, we have to spend our time arguing against interpretations of certain passages of scripture. This gives the impression that we are fighting an interpretive uphill battle. The truth is, the "proof-texts" for hell are so few and out-of-context that without 2,000 years of Catholic-pagan teaching behind us, no one would come up with the idea of hell on their own.
+Unfortunately, when trying to disprove a pervasive concept, we have to spend our time arguing against interpretations of certain passages of scripture. This gives the impression that we are fighting an interpretive uphill battle. The truth is, the "proof-texts" for hell are so few and out-of-context that without 2,000 years of mixed-up teaching behind us, no one would come up with the idea of hell on their own.
 
 So, to even the balance here, let's list a couple of cursory arguments against hell on the basis of justice.
 

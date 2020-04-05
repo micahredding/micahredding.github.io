@@ -5,10 +5,7 @@ title: 'Interpreting The Bible: The Basics'
 path: 2008/11/27/interpreting-bible-basics
 created_at: 2008-11-28 02:32:39.000000000 Z
 updated_at: 2012-03-16 14:55:30.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

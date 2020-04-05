@@ -1,12 +1,10 @@
 ---
 id: 539
-drupal_id: 
 title: What would you have done?
 path: what-would-you-have-done
 created_at: 2017-02-07 19:01:23.139567000 Z
 updated_at: 2017-02-21 22:07:50.318027000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1486494073/ahd5wg59q5b6mucszruq.jpg
 categories:

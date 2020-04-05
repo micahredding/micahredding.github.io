@@ -4,11 +4,8 @@ drupal_id: 4418
 title: There Is No Hell (part 4), The Scriptures, Outer Darkness
 path: 2008/09/15/there-no-hell-part-4-scriptures-outer-darkness
 created_at: 2008-09-15 15:36:15.000000000 Z
-updated_at: 2014-09-22 21:56:39.000000000 Z
-promoted: false
-featured: false
+updated_at: 2019-04-29 16:53:45.004748000 Z
 state: published
-main_image: 
 categories:
 - Theology
 tags:
@@ -25,36 +22,36 @@ This is probably the passage most people think of when they think of hell. "Weep
 
 But let's look beyond the scary words. Those words mean simply this: tears and anger.
 
-In context, Jesus was talking about how the centurion showed more faith than anyone in Israel. And he says this to make a statement: the kingdom was being accepted by gentiles (and prostitutes and tax collectors!) before it was being accepted by the Jews.
+In context, Jesus was talking about how the centurion showed more faith than anyone in Israel. And he says this to make a statement: the kingdom was being accepted by gentiles (and prostitutes and tax collectors!) before it was being accepted by many of the Jewish leadership.
 
-The Jews placed great value in their heritage from the patriarchs. Being a descendent of Abraham meant you were in the kingdom.
+The Jewish leaders placed great value in their heritage from the patriarchs. Being a descendent of Abraham meant you were in the kingdom.
 
-But a time would come when the Jews would suddenly realize the kingdom had passed them by, and (being outside the kingdom) they would find themselves separated from the patriarchs they had valued so much. Instead, gentiles would be "feasting with Abraham" in God's kingdom.
+But a time would come when they would suddenly realize the kingdom had passed them by, and (being outside the kingdom) they would find themselves separated from the patriarchs they had valued so much. Instead, gentiles would be "feasting with Abraham" in God's kingdom.
 
-Jesus is simply prophesying that with his fellow Jews rejecting him, gentiles were going to be the ones who would accept his message.
+Jesus is simply prophesying that with many of his fellow Jews rejecting him, gentiles were going to be the ones who would accept his message.
 
-The Jews would find themselves in "outer darkness" (away from the feast and light of God). And they would respond with tears and anger: "weeping" and "gnashing of teeth".
+Those who rejected him would find themselves in "outer darkness" (away from the feast and light of God). And they would respond with tears and anger: "weeping" and "gnashing of teeth".
 
-This begins early on, as the Jews reacted to Stephen:
+This begins early on, as people reacted to Stephen:
 
 <em>Acts 7:54
 Now when they heard this, they were cut to the quick, and they began gnashing their teeth at him.</em>
 
-And it only grew more pronounced as Paul stirred up jealously among his people by bringing in the gentiles (Romans 11:14). Paul even gives a side mention of the "outer darkness" the Jews were experiencing:
+And it only grew more pronounced as Paul stirred up jealously among his people by bringing in the gentiles (Romans 11:14). Paul even gives a side mention of the "outer darkness" that many Jews were experiencing:
 
 <em>Romans 11:7-9
 7 What then? What Israel is seeking, it has not obtained, but those who were chosen obtained it, and the rest were hardened; 8 just as it is written, "GOD GAVE THEM A SPIRIT OF STUPOR, EYES TO SEE NOT AND EARS TO HEAR NOT, DOWN TO THIS VERY DAY." 9 And David says, "LET THEIR TABLE BECOME A SNARE AND A TRAP, AND A STUMBLING BLOCK AND A RETRIBUTION TO THEM. 10 "LET THEIR EYES BE DARKENED TO SEE NOT, AND BEND THEIR BACKS FOREVER."</em>
 
-The ultimate fulfillment of this was in the destruction of Jerusalem. At that point, non-Christian Jews suddenly realized that they had missed the Messianic boat. The Messiah was being followed by gentiles from all over the world, but the temple they had built their hopes on was in ruins (just as Jesus said: Matthew 24).
+The ultimate fulfillment of this was in the destruction of Jerusalem. At that point, many non-Christian Jews suddenly realized that they had missed the Messianic boat. The Messiah was being followed by gentiles from all over the world, but the temple they had built their hopes on was in ruins (just as Jesus said: Matthew 24).
 
-Jesus is ALWAYS referring to Jews when he talks about "weeping and gnashing of teeth" and "outer darkness". He NEVER said this would happen to anyone but the Jews.
+Jesus is ALWAYS referring to his own people when he talks about "weeping and gnashing of teeth" and "outer darkness". He never said this would happen to anyone but the people of Israel.
 
-The destruction of Jerusalem was a judgment from God. And when it happened, the Jews found themselves outside the kingdom of God, and discovered that it had been given to another people: the gentiles. And they reacted as Jesus said they would: with weeping and gnashing of teeth.
+The destruction of Jerusalem was a judgment from God. And when it happened, the inhabitants of Jerusalem found themselves outside the kingdom of God, and discovered that it had been given to another people. And they reacted as Jesus said they would: with weeping and gnashing of teeth.
 
 <strong>
 Summary</strong>
 
-The "outer darkness" is directly related to Jesus' idea that he had the light. It is only ever used in specific relation to what would happen to the Jews as opposed to the what would happen to the gentiles.
+The "outer darkness" is directly related to Jesus' idea that he had the light. It is only ever used in specific relation to what would happen to the people of Israel as opposed to what would happen to the gentiles.
 
 If we wanted to take a different interpretive approach, we could try to connect this "outer darkness vs. feasting with Abraham" story to the Rich man and Lazarus in Hades experiencing "torment vs. Abraham's bosom". That would just strengthen our argument that this is not eternal.
 

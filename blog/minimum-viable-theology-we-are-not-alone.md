@@ -1,6 +1,5 @@
 ---
 id: 495
-drupal_id: 
 title: 'Minimum Viable Theology: We Are Not Alone'
 path: minimum-viable-theology-we-are-not-alone
 created_at: 2016-07-12 13:34:14.545759000 Z

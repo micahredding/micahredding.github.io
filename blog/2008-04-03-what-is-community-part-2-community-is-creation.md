@@ -6,9 +6,7 @@ path: 2008/04/03/what-is-community-part-2-community-is-creation
 created_at: 2008-04-03 17:27:00.000000000 Z
 updated_at: 2012-03-10 14:17:18.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

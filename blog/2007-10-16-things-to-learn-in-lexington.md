@@ -6,9 +6,7 @@ path: 2007/10/16/things-to-learn-in-lexington
 created_at: 2007-10-17 02:11:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - travel
 - touring

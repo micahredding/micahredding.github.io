@@ -6,9 +6,7 @@ path: 2012/02/09/skulls-bones-and-power-law
 created_at: 2012-02-09 16:31:13.000000000 Z
 updated_at: 2012-02-09 16:45:26.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

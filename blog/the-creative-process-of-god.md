@@ -1,6 +1,5 @@
 ---
 id: 493
-drupal_id: 
 title: The Creative Process of God
 path: the-creative-process-of-god
 created_at: 2016-06-22 17:13:18.563945000 Z

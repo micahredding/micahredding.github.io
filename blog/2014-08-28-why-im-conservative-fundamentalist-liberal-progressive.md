@@ -6,7 +6,6 @@ path: 2014/08/28/why-im-conservative-fundamentalist-liberal-progressive
 created_at: 2014-08-28 14:23:48.000000000 Z
 updated_at: 2017-07-07 15:54:53.384338000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1453059722/robot_0.jpg
 categories:

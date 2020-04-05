@@ -6,9 +6,7 @@ path: 2013/01/01/problem-evil-problem-humanity
 created_at: 2013-01-01 23:32:19.000000000 Z
 updated_at: 2015-01-18 06:13:58.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

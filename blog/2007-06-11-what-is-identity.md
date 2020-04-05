@@ -6,9 +6,7 @@ path: 2007/06/11/what-is-identity
 created_at: 2007-06-11 20:24:00.000000000 Z
 updated_at: 2012-03-22 06:00:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

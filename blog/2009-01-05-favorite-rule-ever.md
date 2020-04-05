@@ -6,9 +6,7 @@ path: 2009/01/05/favorite-rule-ever
 created_at: 2009-01-05 13:04:53.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

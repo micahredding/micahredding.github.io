@@ -6,7 +6,6 @@ path: 2012/05/02/cruel-god-hebrew-bible
 created_at: 2012-05-02 17:19:51.000000000 Z
 updated_at: 2017-04-14 14:27:58.677676000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060251/AKG151883.jpg
 categories:

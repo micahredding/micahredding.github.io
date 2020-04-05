@@ -5,10 +5,7 @@ title: Escaping Google
 path: 2012/03/10/escaping-google
 created_at: 2012-03-11 04:27:13.000000000 Z
 updated_at: 2013-01-11 06:39:39.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 ---

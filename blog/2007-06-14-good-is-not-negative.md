@@ -6,9 +6,7 @@ path: 2007/06/14/good-is-not-negative
 created_at: 2007-06-14 17:38:00.000000000 Z
 updated_at: 2012-03-22 06:01:09.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

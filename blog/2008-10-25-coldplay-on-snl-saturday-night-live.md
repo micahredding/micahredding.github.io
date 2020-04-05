@@ -6,9 +6,7 @@ path: 2008/10/25/coldplay-on-snl-saturday-night-live
 created_at: 2008-10-26 02:49:40.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

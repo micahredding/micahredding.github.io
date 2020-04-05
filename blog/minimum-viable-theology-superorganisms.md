@@ -1,6 +1,5 @@
 ---
 id: 554
-drupal_id: 
 title: 'Minimum Viable Theology: Superorganisms'
 path: minimum-viable-theology-superorganisms
 created_at: 2018-02-08 21:16:00.735262000 Z

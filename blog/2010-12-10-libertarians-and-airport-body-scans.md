@@ -6,9 +6,7 @@ path: 2010/12/10/libertarians-and-airport-body-scans
 created_at: 2010-12-10 16:51:42.000000000 Z
 updated_at: 2012-01-04 14:54:49.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

@@ -5,10 +5,7 @@ title: An Introduction to the Simulation Argument
 path: 2011/11/23/introduction-simulation-argument
 created_at: 2011-11-23 15:39:09.000000000 Z
 updated_at: 2015-08-27 02:50:58.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 tags:

@@ -6,9 +6,7 @@ path: 2007/04/21/a-new-song-a-week
 created_at: 2007-04-22 03:39:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - songs
 - song+a+week

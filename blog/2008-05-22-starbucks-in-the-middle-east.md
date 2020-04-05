@@ -6,9 +6,7 @@ path: 2008/05/22/starbucks-in-the-middle-east
 created_at: 2008-05-23 03:11:00.000000000 Z
 updated_at: 2012-03-09 06:26:02.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

@@ -6,9 +6,7 @@ path: 2008/04/24/music-as-community
 created_at: 2008-04-24 20:49:00.000000000 Z
 updated_at: 2012-03-10 14:17:07.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

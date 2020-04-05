@@ -6,9 +6,7 @@ path: 2007/01/07/bertrand-russells-argument-against-christianity
 created_at: 2007-01-07 08:27:00.000000000 Z
 updated_at: 2011-08-21 04:11:18.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - theology
 - religion

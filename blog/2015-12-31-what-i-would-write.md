@@ -6,7 +6,6 @@ path: 2015/12/31/what-i-would-write
 created_at: 2015-12-31 16:09:43.000000000 Z
 updated_at: 2017-04-14 14:27:58.283130000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453078126/Infinite_Play.jpg
 categories:

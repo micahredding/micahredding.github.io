@@ -5,10 +5,7 @@ title: What I want in my backpack (list)
 path: 2011/10/29/what-i-want-my-backpack
 created_at: 2011-10-29 05:30:36.000000000 Z
 updated_at: 2011-11-14 16:36:33.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 ---

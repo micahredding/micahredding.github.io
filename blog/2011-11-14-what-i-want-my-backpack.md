@@ -6,9 +6,7 @@ path: 2011/11/14/what-i-want-my-backpack
 created_at: 2011-11-14 16:28:28.000000000 Z
 updated_at: 2011-11-14 16:29:52.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

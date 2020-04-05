@@ -6,7 +6,6 @@ path: 2012/07/19/mountain-bested-me
 created_at: 2012-07-19 14:52:08.000000000 Z
 updated_at: 2017-04-14 14:27:58.643758000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453076449/2012-05-22_2012.38.02_20AM.jpg
 categories:

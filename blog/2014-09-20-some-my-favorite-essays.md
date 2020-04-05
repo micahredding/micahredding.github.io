@@ -5,8 +5,6 @@ title: Some of my favorite essays
 path: 2014/09/20/some-my-favorite-essays
 created_at: 2014-09-20 18:48:56.000000000 Z
 updated_at: 2017-04-14 14:27:58.395760000 Z
-promoted: false
-featured: false
 state: published
 main_image: image/upload/v1453076328/RobertDowneyJuniorIronManHairstyle.jpg
 images:

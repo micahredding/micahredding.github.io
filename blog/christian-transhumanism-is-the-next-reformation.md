@@ -1,6 +1,5 @@
 ---
 id: 552
-drupal_id: 
 title: Christian Transhumanism is the Next Reformation
 path: christian-transhumanism-is-the-next-reformation
 created_at: 2017-10-18 01:56:20.838575000 Z

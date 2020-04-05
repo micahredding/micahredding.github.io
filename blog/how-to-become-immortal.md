@@ -1,6 +1,5 @@
 ---
 id: 536
-drupal_id: 
 title: How to Become Immortal
 path: how-to-become-immortal
 created_at: 2017-01-20 06:13:35.086034000 Z

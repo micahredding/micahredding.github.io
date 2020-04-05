@@ -6,9 +6,7 @@ path: 2007/03/16/the-taming-of-the-world-why-america-is-not-a-modern-rome
 created_at: 2007-03-17 04:45:00.000000000 Z
 updated_at: 2012-03-22 05:51:46.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

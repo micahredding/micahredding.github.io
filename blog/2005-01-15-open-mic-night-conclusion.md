@@ -6,9 +6,7 @@ path: 2005/01/15/open-mic-night-conclusion
 created_at: 2005-01-16 00:34:00.000000000 Z
 updated_at: 2014-09-30 01:03:01.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

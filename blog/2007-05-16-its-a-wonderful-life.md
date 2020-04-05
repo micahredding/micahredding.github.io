@@ -6,9 +6,7 @@ path: 2007/05/16/its-a-wonderful-life
 created_at: 2007-05-16 05:58:00.000000000 Z
 updated_at: 2014-11-24 02:32:30.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - music
 - people

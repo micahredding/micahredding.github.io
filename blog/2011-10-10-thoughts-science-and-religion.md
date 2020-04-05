@@ -6,9 +6,7 @@ path: 2011/10/10/thoughts-science-and-religion
 created_at: 2011-10-10 12:45:56.000000000 Z
 updated_at: 2011-10-10 12:45:56.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

@@ -6,9 +6,7 @@ path: 2012/01/01/new-years-resolve-change
 created_at: 2012-01-01 19:11:34.000000000 Z
 updated_at: 2012-01-12 14:40:50.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

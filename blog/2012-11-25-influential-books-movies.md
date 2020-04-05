@@ -5,10 +5,7 @@ title: Influential books & movies
 path: 2012/11/25/influential-books-movies
 created_at: 2012-11-25 23:44:51.000000000 Z
 updated_at: 2014-09-28 22:29:14.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 ---

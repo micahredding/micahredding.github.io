@@ -6,9 +6,7 @@ path: 2010/04/12/jesus-triumph-and-coronation
 created_at: 2010-04-13 04:58:22.000000000 Z
 updated_at: 2012-01-04 14:56:36.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

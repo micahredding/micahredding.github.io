@@ -6,9 +6,7 @@ path: 2010/04/22/how-christianity-sold-its-soul
 created_at: 2010-04-22 17:46:23.000000000 Z
 updated_at: 2012-01-04 14:56:22.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

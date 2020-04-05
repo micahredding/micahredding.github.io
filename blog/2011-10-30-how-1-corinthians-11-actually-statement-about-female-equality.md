@@ -4,11 +4,9 @@ drupal_id: 4446
 title: How 1 Corinthians 11 is actually a statement about female equality
 path: 2011/10/30/how-1-corinthians-11-actually-statement-about-female-equality
 created_at: 2011-10-31 02:28:23.000000000 Z
-updated_at: 2015-06-12 13:13:38.000000000 Z
+updated_at: 2018-04-18 14:25:59.724179000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:
@@ -16,7 +14,7 @@ tags:
 ---
 1 Corinthians 11 is one of the most interesting statements about female equality in the scriptures. Certainly, it's not the most clear. Nor is it the most profound - and yet, because it exposes the fault lines of Paul's thinking, it really is one of the most indicative.
 
-If you're not familiar with 1 Corinthians 11, it's the weird uncle of scripture passages, the basis of many strange ideas, the one set of verses that even the extreme preachers often skip over. It deals with the subject of head-coverings or veils, the New Testament's version of the burka. If you don't know any of this, please take a glance at <a href="http://micahredding.com/blog/2011/10/02/christianity-against-religion">my religious viewpoint</a> before diving in. Then, read <a href="http://studylight.org/desk/?query=1co+11:1&t=nas&st=1&new=1&sr=1&sc=1&l=en">the passage</a>. Got it? Okay, here we go.
+If you're not familiar with 1 Corinthians 11, it's the weird uncle of scripture passages, the basis of many strange ideas, the one set of verses that even the extreme preachers often skip over. It deals with the subject of head-coverings or veils, the New Testament's version of the burka. If you don't know any of this, please take a glance at <a href="http://studylight.org/desk/?query=1co+11:1&t=nas&st=1&new=1&sr=1&sc=1&l=en">the passage</a>. Got it? Okay, here we go.
 
 Paul had started his message to the gentile world by talking about how *<a href="http://micahredding.com/blog/2007/01/15/who-is-god-the-secret-of-the-new-covenant">God is spirit</a>*, a being not affected or influenced by the kinds of things that human beings use to divide up their world. As such, he had no need of temples, and as such, he did not discriminate between people on the basis of external ethnic or other markers (Acts 17:24-31). This is a direct continuation of Jesus' line of thought in John 4, where he broke all social convention by sitting down at a well, as a Jewish man in the middle of Samaria, talking privately to a disreputable Samaritan woman, and expressed to her the core of his message: that God is spirit, and so God does not care about the location of one's worship.
 

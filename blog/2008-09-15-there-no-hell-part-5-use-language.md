@@ -4,11 +4,8 @@ drupal_id: 4419
 title: There Is No Hell (part 5), The Use of Language
 path: 2008/09/15/there-no-hell-part-5-use-language
 created_at: 2008-09-15 15:40:50.000000000 Z
-updated_at: 2014-09-22 21:56:48.000000000 Z
-promoted: false
-featured: false
+updated_at: 2019-04-29 16:56:42.030999000 Z
 state: published
-main_image: 
 categories:
 - Theology
 tags:
@@ -53,7 +50,7 @@ But when we get to Revelation, we have two verses that seem to buck this trend, 
 <em>Revelation 20:10
 10 And the devil who deceived them was thrown into the lake of fire and brimstone, where the beast and the false prophet are also; and they will be tormented day and night forever and ever.</em>
 
-I saved these for last because I believe that without these verses to pin their "proofs" on, pagan-christian theologians in the early church never would have been successful at inventing the concept of "hell".
+I saved these for last because I believe that without these verses to pin their "proofs" on, mixed-up theologians in the early church never would have been successful at inventing the concept of "hell".
 
 First question: who is mentioned in these verses?
 

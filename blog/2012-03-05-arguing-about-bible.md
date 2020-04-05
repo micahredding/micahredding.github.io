@@ -6,7 +6,6 @@ path: 2012/03/05/arguing-about-bible
 created_at: 2012-03-05 13:53:26.000000000 Z
 updated_at: 2017-04-14 14:27:58.784708000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060277/bible_miniseries_wide.jpg
 categories:

@@ -6,7 +6,6 @@ path: 2013/01/01/human-race-problem-evil
 created_at: 2013-01-01 23:40:25.000000000 Z
 updated_at: 2017-04-14 14:27:58.562853000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453619922/believe_in_humanity.png
 categories:

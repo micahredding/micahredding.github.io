@@ -6,9 +6,7 @@ path: 2012/03/22/aliens-among-us
 created_at: 2012-03-22 18:33:51.000000000 Z
 updated_at: 2012-03-22 18:41:46.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

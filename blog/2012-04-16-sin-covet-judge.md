@@ -6,9 +6,7 @@ path: 2012/04/16/sin-covet-judge
 created_at: 2012-04-16 15:01:03.000000000 Z
 updated_at: 2012-04-16 15:05:18.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 ---

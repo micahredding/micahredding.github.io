@@ -6,7 +6,6 @@ path: 2011/12/09/peter-rollins-and-death-religion
 created_at: 2011-12-09 20:01:30.000000000 Z
 updated_at: 2017-04-14 14:27:58.972116000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060304/PeterR.jpg
 categories:

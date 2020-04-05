@@ -1,12 +1,10 @@
 ---
 id: 487
-drupal_id: 
 title: The Tree of the Knowledge of Good and Evil
 path: the-tree-of-the-knowledge-of-good-and-evil
 created_at: 2016-04-02 16:44:11.225178000 Z
 updated_at: 2017-04-14 14:28:00.231141000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1459616472/crbipm0hby5dek2wodhz.jpg
 categories:

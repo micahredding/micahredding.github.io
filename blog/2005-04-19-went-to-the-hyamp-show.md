@@ -6,9 +6,7 @@ path: 2005/04/19/went-to-the-hyamp-show
 created_at: 2005-04-19 15:15:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

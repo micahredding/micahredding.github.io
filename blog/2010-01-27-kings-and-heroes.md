@@ -6,9 +6,7 @@ path: 2010/01/27/kings-and-heroes
 created_at: 2010-01-27 13:02:36.000000000 Z
 updated_at: 2011-12-17 01:08:32.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

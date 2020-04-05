@@ -6,9 +6,7 @@ path: 2008/12/11/the-golden-compass-killing-god
 created_at: 2008-12-11 23:26:03.000000000 Z
 updated_at: 2012-03-09 06:15:39.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

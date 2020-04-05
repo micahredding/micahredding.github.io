@@ -5,10 +5,7 @@ title: There Is No Hell (part 3), The Scriptures, Getting Destructed
 path: 2008/09/15/there-no-hell-part-3-scriptures-getting-destructed
 created_at: 2008-09-15 15:34:55.000000000 Z
 updated_at: 2014-09-22 21:56:33.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

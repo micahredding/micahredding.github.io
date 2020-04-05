@@ -1,12 +1,10 @@
 ---
 id: 543
-drupal_id: 
 title: How to Read Scripture
 path: how-to-read-scripture
 created_at: 2017-03-17 15:00:31.939779000 Z
 updated_at: 2017-03-17 15:16:20.423392000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1489763317/cvcosmuwfawbdq1amxbh.jpg
 ---

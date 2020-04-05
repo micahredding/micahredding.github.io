@@ -6,9 +6,7 @@ path: 2007/04/12/jesus-camp
 created_at: 2007-04-12 05:30:00.000000000 Z
 updated_at: 2011-08-22 00:00:00.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - theology
 - religion

@@ -6,7 +6,6 @@ path: 2012/05/07/something-wrong-world
 created_at: 2012-05-07 14:34:38.000000000 Z
 updated_at: 2017-04-14 14:27:58.671533000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060249/1390574849361.jpg
 categories:

@@ -5,10 +5,7 @@ title: Who I am
 path: 2012/01/15/micah-redding
 created_at: 2012-01-16 03:12:40.000000000 Z
 updated_at: 2012-03-10 13:33:34.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 ---

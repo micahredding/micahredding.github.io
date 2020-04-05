@@ -6,7 +6,6 @@ path: 2013/05/28/poison-empires
 created_at: 2013-05-28 23:35:04.000000000 Z
 updated_at: 2017-04-14 14:27:58.513795000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453076329/PwDVt.jpg
 categories:

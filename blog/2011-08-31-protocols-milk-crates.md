@@ -5,10 +5,7 @@ title: 'Protocols: Milk Crates'
 path: 2011/08/31/protocols-milk-crates
 created_at: 2011-08-31 14:59:56.000000000 Z
 updated_at: 2011-10-10 03:04:48.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 tags:

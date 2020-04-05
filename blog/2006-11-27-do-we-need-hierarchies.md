@@ -6,9 +6,7 @@ path: 2006/11/27/do-we-need-hierarchies
 created_at: 2006-11-28 03:37:00.000000000 Z
 updated_at: 2012-03-09 06:22:05.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 - Theology

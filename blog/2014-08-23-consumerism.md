@@ -6,7 +6,6 @@ path: 2014/08/23/consumerism
 created_at: 2014-08-23 17:42:31.000000000 Z
 updated_at: 2017-04-14 14:27:58.438250000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059725/1024px-Stencil_shopping_cart.jpg
 categories:

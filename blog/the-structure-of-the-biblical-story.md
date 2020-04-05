@@ -1,12 +1,10 @@
 ---
 id: 486
-drupal_id: 
 title: The Structure of the Biblical Story
 path: the-structure-of-the-biblical-story
 created_at: 2016-03-04 20:39:31.866793000 Z
 updated_at: 2017-04-14 14:28:00.224741000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1457123911/bddewsysfyvah5elvnsm.jpg
 categories:

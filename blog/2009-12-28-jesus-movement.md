@@ -6,9 +6,7 @@ path: 2009/12/28/jesus-movement
 created_at: 2009-12-29 04:30:00.000000000 Z
 updated_at: 2012-03-09 05:34:34.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

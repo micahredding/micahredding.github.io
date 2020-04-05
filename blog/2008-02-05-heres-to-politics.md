@@ -6,9 +6,7 @@ path: 2008/02/05/heres-to-politics
 created_at: 2008-02-06 05:18:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - politics
 - libertarian

@@ -6,9 +6,7 @@ path: 2007/01/03/rock-roll-can-save-the-worldfrom-rb
 created_at: 2007-01-03 15:51:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - rock band
 - rock and roll

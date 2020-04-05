@@ -6,7 +6,6 @@ path: 2012/03/06/why-are-humans-evil
 created_at: 2012-03-06 17:37:32.000000000 Z
 updated_at: 2017-04-14 14:27:58.775254000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453076330/pomegranate.jpg
 categories:

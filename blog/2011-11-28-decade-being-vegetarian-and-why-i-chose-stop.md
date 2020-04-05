@@ -6,9 +6,7 @@ path: 2011/11/28/decade-being-vegetarian-and-why-i-chose-stop
 created_at: 2011-11-28 13:45:17.000000000 Z
 updated_at: 2016-02-08 04:53:39.086108000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

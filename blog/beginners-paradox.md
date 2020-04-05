@@ -1,6 +1,5 @@
 ---
 id: 548
-drupal_id: 
 title: 'The Beginner''s Paradox and the Beatitudes: We Must Fall in Order to Rise'
 path: beginners-paradox
 created_at: 2017-08-18 18:47:35.472499000 Z

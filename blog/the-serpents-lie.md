@@ -1,12 +1,10 @@
 ---
 id: 544
-drupal_id: 
 title: The Serpent’s Lie
 path: the-serpents-lie
 created_at: 2017-04-28 21:45:10.783547000 Z
 updated_at: 2017-04-28 22:09:33.123090000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1493415967/xomoyxxnyf5nko1kbe2n.jpg
 categories:

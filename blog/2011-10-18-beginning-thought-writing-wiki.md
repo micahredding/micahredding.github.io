@@ -6,9 +6,7 @@ path: 2011/10/18/beginning-thought-writing-wiki
 created_at: 2011-10-18 17:11:20.000000000 Z
 updated_at: 2012-01-04 14:57:46.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 ---

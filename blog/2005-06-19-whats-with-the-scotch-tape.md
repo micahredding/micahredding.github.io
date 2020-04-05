@@ -6,9 +6,7 @@ path: 2005/06/19/whats-with-the-scotch-tape
 created_at: 2005-06-19 18:49:00.000000000 Z
 updated_at: 2011-08-21 04:10:02.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

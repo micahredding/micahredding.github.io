@@ -1,14 +1,11 @@
 ---
 id: 483
-drupal_id: 
 title: My Grandfather
 path: my-grandfather
 created_at: 2016-02-16 20:29:59.769704000 Z
 updated_at: 2016-02-16 20:37:13.128601000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

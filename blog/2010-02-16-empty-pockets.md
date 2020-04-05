@@ -6,7 +6,6 @@ path: 2010/02/16/empty-pockets
 created_at: 2010-02-16 22:55:34.000000000 Z
 updated_at: 2017-04-14 14:27:59.176894000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453072535/2010-02-16-keyring.jpg
 categories:

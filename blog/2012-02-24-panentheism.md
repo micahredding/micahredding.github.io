@@ -5,10 +5,7 @@ title: Panentheism
 path: 2012/02/24/panentheism
 created_at: 2012-02-24 18:23:06.000000000 Z
 updated_at: 2014-09-28 22:36:50.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 series:

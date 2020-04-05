@@ -1,6 +1,5 @@
 ---
 id: 553
-drupal_id: 
 title: 5 Theses for the Next Reformation
 path: 5-theses-for-the-next-reformation
 created_at: 2017-11-01 01:07:17.978148000 Z

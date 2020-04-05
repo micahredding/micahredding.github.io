@@ -6,7 +6,6 @@ path: new-god-argument-and-a-new-apologetics
 created_at: 2016-01-21 05:33:22.000000000 Z
 updated_at: 2017-11-10 02:22:10.629239000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1453619776/pablo_3.jpg
 categories:

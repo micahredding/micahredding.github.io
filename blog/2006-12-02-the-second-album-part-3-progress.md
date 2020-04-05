@@ -6,9 +6,7 @@ path: 2006/12/02/the-second-album-part-3-progress
 created_at: 2006-12-02 06:20:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 - The Making of an American Rock Band

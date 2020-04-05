@@ -6,7 +6,6 @@ path: 2011/12/25/peter-rollins-and-experiencing-god
 created_at: 2011-12-26 03:25:22.000000000 Z
 updated_at: 2017-04-14 14:27:58.946575000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060299/Church-People1.jpg
 categories:

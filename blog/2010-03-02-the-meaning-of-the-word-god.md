@@ -6,9 +6,7 @@ path: 2010/03/02/the-meaning-of-the-word-god
 created_at: 2010-03-02 06:14:00.000000000 Z
 updated_at: 2012-01-04 14:57:03.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

@@ -1,6 +1,5 @@
 ---
 id: 492
-drupal_id: 
 title: Women in the Church
 path: women-in-the-church
 created_at: 2016-06-20 15:22:12.122506000 Z

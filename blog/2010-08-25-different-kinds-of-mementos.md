@@ -6,9 +6,7 @@ path: 2010/08/25/different-kinds-of-mementos
 created_at: 2010-08-25 20:48:16.000000000 Z
 updated_at: 2012-01-04 14:55:12.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

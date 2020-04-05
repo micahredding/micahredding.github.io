@@ -6,9 +6,7 @@ path: 2010/04/18/the-structure-of-human-hope-speculations-on-immortality
 created_at: 2010-04-18 17:59:46.000000000 Z
 updated_at: 2012-03-10 14:12:04.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 tags:

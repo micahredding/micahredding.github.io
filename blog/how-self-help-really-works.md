@@ -1,6 +1,5 @@
 ---
 id: 533
-drupal_id: 
 title: How Self-Help Really Works
 path: how-self-help-really-works
 created_at: 2016-12-15 00:37:19.786839000 Z

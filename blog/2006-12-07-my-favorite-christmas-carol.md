@@ -6,9 +6,7 @@ path: 2006/12/07/my-favorite-christmas-carol
 created_at: 2006-12-08 05:37:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - carols
 - carol of the bells

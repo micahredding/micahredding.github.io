@@ -6,9 +6,7 @@ path: 2004/11/10/newsflash-special-duet-performance-with-micah-josiah
 created_at: 2004-11-11 03:09:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

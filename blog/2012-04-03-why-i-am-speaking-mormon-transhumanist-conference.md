@@ -6,9 +6,7 @@ path: 2012/04/03/why-i-am-speaking-mormon-transhumanist-conference
 created_at: 2012-04-03 14:40:40.000000000 Z
 updated_at: 2012-04-03 14:42:13.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 ---

@@ -6,9 +6,7 @@ path: 2006/11/22/march-9-2007-or-how-the-redding-brothers-will-rock-the-world
 created_at: 2006-11-23 05:57:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

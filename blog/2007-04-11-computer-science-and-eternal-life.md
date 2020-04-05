@@ -6,9 +6,7 @@ path: 2007/04/11/computer-science-and-eternal-life
 created_at: 2007-04-12 00:45:00.000000000 Z
 updated_at: 2012-03-22 05:53:56.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 tags:

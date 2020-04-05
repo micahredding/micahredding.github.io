@@ -5,10 +5,7 @@ title: Reading List
 path: 2011/09/16/reading-list
 created_at: 2011-09-16 05:28:58.000000000 Z
 updated_at: 2011-10-10 03:04:16.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 tags:

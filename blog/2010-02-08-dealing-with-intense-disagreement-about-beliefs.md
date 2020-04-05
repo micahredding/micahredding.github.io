@@ -6,9 +6,7 @@ path: 2010/02/08/dealing-with-intense-disagreement-about-beliefs
 created_at: 2010-02-09 01:01:00.000000000 Z
 updated_at: 2012-03-09 05:32:26.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

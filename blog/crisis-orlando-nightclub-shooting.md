@@ -1,6 +1,5 @@
 ---
 id: 545
-drupal_id: 
 title: Crisis
 path: crisis-orlando-nightclub-shooting
 created_at: 2017-06-12 11:34:05.835264000 Z

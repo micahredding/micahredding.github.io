@@ -6,9 +6,7 @@ path: 2008/09/08/quality-of-light
 created_at: 2008-09-09 01:35:51.000000000 Z
 updated_at: 2012-03-09 05:38:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

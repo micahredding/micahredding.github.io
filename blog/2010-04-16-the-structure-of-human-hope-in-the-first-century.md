@@ -6,9 +6,7 @@ path: 2010/04/16/the-structure-of-human-hope-in-the-first-century
 created_at: 2010-04-17 01:54:03.000000000 Z
 updated_at: 2012-03-10 13:52:32.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

@@ -7,9 +7,7 @@ path: 2006/12/20/new-medical-study-finds-rock-roll-linked-to-saving-the-world-bu
 created_at: 2006-12-20 20:50:00.000000000 Z
 updated_at: 2011-09-22 13:23:03.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - rock band
 - rock and roll

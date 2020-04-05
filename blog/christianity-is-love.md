@@ -1,6 +1,5 @@
 ---
 id: 535
-drupal_id: 
 title: Christianity is Love
 path: christianity-is-love
 created_at: 2017-01-15 06:28:16.621562000 Z

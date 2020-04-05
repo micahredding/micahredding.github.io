@@ -5,10 +5,7 @@ title: Maybe I was wrong
 path: 2012/04/30/maybe-i-was-wrong
 created_at: 2012-05-01 02:05:04.000000000 Z
 updated_at: 2014-09-28 22:29:29.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 series:

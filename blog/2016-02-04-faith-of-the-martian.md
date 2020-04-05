@@ -1,12 +1,10 @@
 ---
 id: 481
-drupal_id: 
 title: 'The Faith of the Martian '
 path: 2016/02/04/faith-of-the-martian
 created_at: 2016-02-05 02:41:14.563319000 Z
 updated_at: 2017-04-14 14:28:00.185386000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1454640151/eftety8nx4ha3qtaxau8.jpg
 categories:

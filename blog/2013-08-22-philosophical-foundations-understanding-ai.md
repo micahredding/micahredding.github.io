@@ -6,9 +6,7 @@ path: 2013/08/22/philosophical-foundations-understanding-ai
 created_at: 2013-08-23 04:37:40.000000000 Z
 updated_at: 2014-09-28 22:21:38.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 ---

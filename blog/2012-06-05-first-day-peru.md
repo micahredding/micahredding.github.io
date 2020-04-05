@@ -6,7 +6,6 @@ path: 2012/06/05/first-day-peru
 created_at: 2012-06-05 10:56:58.000000000 Z
 updated_at: 2017-04-14 14:27:58.656116000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060244/photo_0.jpg
 categories:

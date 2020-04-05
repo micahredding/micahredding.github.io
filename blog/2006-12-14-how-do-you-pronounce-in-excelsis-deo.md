@@ -6,9 +6,7 @@ path: 2006/12/14/how-do-you-pronounce-in-excelsis-deo
 created_at: 2006-12-15 02:36:00.000000000 Z
 updated_at: 2017-12-10 01:53:46.957545000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - carols
 - christmas

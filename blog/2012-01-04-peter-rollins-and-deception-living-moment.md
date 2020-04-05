@@ -6,7 +6,6 @@ path: 2012/01/04/peter-rollins-and-deception-living-moment
 created_at: 2012-01-04 14:49:24.000000000 Z
 updated_at: 2017-04-14 14:27:58.889360000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060292/05-vangoc-4115-380.jpg
 categories:

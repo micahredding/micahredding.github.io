@@ -6,7 +6,6 @@ path: 2012/01/19/i-am-more-fundamentalist-you
 created_at: 2012-01-19 18:29:20.000000000 Z
 updated_at: 2017-04-14 14:27:58.868724000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060289/cross-on-hill.jpg
 categories:

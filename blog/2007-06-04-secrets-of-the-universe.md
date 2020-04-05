@@ -6,9 +6,7 @@ path: 2007/06/04/secrets-of-the-universe
 created_at: 2007-06-05 02:04:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - rock and roll
 - religion

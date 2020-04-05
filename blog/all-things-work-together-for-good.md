@@ -1,12 +1,10 @@
 ---
 id: 485
-drupal_id: 
 title: All Things Work Together For Good
 path: all-things-work-together-for-good
 created_at: 2016-02-23 15:51:52.188042000 Z
 updated_at: 2017-04-14 14:28:00.215425000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1456243303/lw5a9mwjwvocoq26xq6d.png
 categories:

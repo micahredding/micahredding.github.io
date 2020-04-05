@@ -5,10 +5,7 @@ title: 'Notes: Will Wright mapping personal data'
 path: 2012/08/05/notes-will-wright-mapping-personal-data
 created_at: 2012-08-05 23:01:35.000000000 Z
 updated_at: 2014-09-28 22:30:12.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 ---

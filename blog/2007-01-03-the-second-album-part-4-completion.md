@@ -6,9 +6,7 @@ path: 2007/01/03/the-second-album-part-4-completion
 created_at: 2007-01-03 08:25:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 - The Making of an American Rock Band

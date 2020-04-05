@@ -6,9 +6,7 @@ path: 2008/02/23/the-moment-is-perfect
 created_at: 2008-02-23 14:47:00.000000000 Z
 updated_at: 2012-03-09 06:17:43.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

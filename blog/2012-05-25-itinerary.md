@@ -6,9 +6,7 @@ path: 2012/05/25/itinerary
 created_at: 2012-05-25 11:47:12.000000000 Z
 updated_at: 2012-05-25 11:47:12.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 series:

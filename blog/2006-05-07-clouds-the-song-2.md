@@ -6,9 +6,7 @@ path: 2006/05/07/clouds-the-song-2
 created_at: 2006-05-07 22:30:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

@@ -6,9 +6,7 @@ path: 2009/11/08/forgiveness-thought
 created_at: 2009-11-09 04:23:00.000000000 Z
 updated_at: 2012-03-09 05:34:40.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

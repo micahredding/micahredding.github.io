@@ -5,8 +5,6 @@ title: 'Incoherent Essays: Words Written Half-Awake'
 path: 2014/06/19/incoherent-essays
 created_at: 2014-06-20 03:28:08.000000000 Z
 updated_at: 2017-04-14 14:27:58.444008000 Z
-promoted: false
-featured: false
 state: published
 main_image: image/upload/v1453059728/incoherent_essays.jpg
 categories:

@@ -1,6 +1,5 @@
 ---
 id: 538
-drupal_id: 
 title: Why Christians need a Minimum Viable Theology
 path: why-christians-need-minimum-viable-theology
 created_at: 2017-02-01 23:08:16.701353000 Z

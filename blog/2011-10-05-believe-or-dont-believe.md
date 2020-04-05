@@ -6,9 +6,7 @@ path: 2011/10/05/believe-or-dont-believe
 created_at: 2011-10-05 05:21:58.000000000 Z
 updated_at: 2011-10-10 03:02:32.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

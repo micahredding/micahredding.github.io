@@ -1,6 +1,5 @@
 ---
 id: 534
-drupal_id: 
 title: Partnership with God
 path: partnership-with-god
 created_at: 2017-01-03 20:59:32.503273000 Z

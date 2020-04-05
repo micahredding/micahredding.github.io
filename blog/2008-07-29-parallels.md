@@ -6,9 +6,7 @@ path: 2008/07/29/parallels
 created_at: 2008-07-29 17:10:00.000000000 Z
 updated_at: 2012-03-09 06:17:29.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 tags:

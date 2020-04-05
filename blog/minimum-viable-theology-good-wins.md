@@ -1,12 +1,10 @@
 ---
 id: 482
-drupal_id: 
 title: 'Minimum Viable Theology: Good Wins'
 path: minimum-viable-theology-good-wins
 created_at: 2016-02-08 15:00:16.960754000 Z
 updated_at: 2017-04-14 14:28:00.193089000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1454945400/xqmak4wpgt181b2lh7kt.png
 categories:

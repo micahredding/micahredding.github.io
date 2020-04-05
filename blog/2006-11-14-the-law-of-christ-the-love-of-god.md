@@ -6,9 +6,7 @@ path: 2006/11/14/the-law-of-christ-the-love-of-god
 created_at: 2006-11-15 05:16:00.000000000 Z
 updated_at: 2012-03-09 06:22:18.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

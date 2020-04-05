@@ -6,7 +6,6 @@ path: 2014/02/15/being-human
 created_at: 2014-06-09 15:20:00.000000000 Z
 updated_at: 2017-04-14 14:27:58.448700000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453076326/IMG_4993.jpg
 categories:

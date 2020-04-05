@@ -6,9 +6,7 @@ path: 2007/01/11/professor-by-day-rock-star-by-night
 created_at: 2007-01-11 11:04:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - rock band
 - rock and roll

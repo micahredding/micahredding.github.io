@@ -5,10 +5,7 @@ title: Non-Metaphysical Christianity
 path: 2012/02/24/non-metaphysical-christianity
 created_at: 2012-02-24 17:53:17.000000000 Z
 updated_at: 2014-09-28 22:28:19.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 series:

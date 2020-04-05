@@ -5,10 +5,7 @@ title: References for Christianity as Anthropology
 path: 2012/03/11/references-christianity-anthropology
 created_at: 2012-03-11 20:39:49.000000000 Z
 updated_at: 2014-09-28 22:28:45.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 ---

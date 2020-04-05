@@ -6,7 +6,6 @@ path: 2014/12/20/spaceships-christmas
 created_at: 2014-12-21 03:43:26.000000000 Z
 updated_at: 2017-12-22 16:04:32.831581000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1453059672/EmissionNebula_NGC6357_2.jpg
 categories:

@@ -5,10 +5,7 @@ title: 'Interpreting The Bible: A Start'
 path: 2008/12/05/interpreting-bible-start
 created_at: 2008-12-05 20:13:29.000000000 Z
 updated_at: 2012-03-19 04:32:26.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

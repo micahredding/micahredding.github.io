@@ -1,6 +1,5 @@
 ---
 id: 556
-drupal_id: 
 title: Francis Bacon, Christian Transhumanist
 path: francis-bacon-christian-transhumanist
 created_at: 2018-02-16 04:08:48.341021000 Z

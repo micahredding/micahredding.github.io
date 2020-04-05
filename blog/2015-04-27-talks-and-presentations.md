@@ -5,10 +5,7 @@ title: Talks and Presentations
 path: 2015/04/27/talks-and-presentations
 created_at: 2015-04-27 14:23:50.000000000 Z
 updated_at: 2015-04-28 02:06:45.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 ---
 Micah Redding is a software developer, the  co-founder and executive director of the Christian Transhumanist Association, and a writer on the subject of human values and technology. 
 

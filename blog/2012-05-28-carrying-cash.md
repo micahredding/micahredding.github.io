@@ -6,9 +6,7 @@ path: 2012/05/28/carrying-cash
 created_at: 2012-05-28 18:54:00.000000000 Z
 updated_at: 2012-05-28 18:56:38.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 series:

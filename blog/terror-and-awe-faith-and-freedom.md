@@ -1,12 +1,10 @@
 ---
 id: 497
-drupal_id: 
 title: Terror and Awe, Faith and Freedom
 path: terror-and-awe-faith-and-freedom
 created_at: 2016-07-21 13:45:48.887861000 Z
 updated_at: 2017-04-14 14:28:00.344498000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1469112778/wjkfx5j9ewgob2wfrp3n.jpg
 categories:

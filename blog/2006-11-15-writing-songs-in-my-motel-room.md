@@ -6,9 +6,7 @@ path: 2006/11/15/writing-songs-in-my-motel-room
 created_at: 2006-11-15 07:13:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

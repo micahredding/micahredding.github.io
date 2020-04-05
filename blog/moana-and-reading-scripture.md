@@ -1,12 +1,10 @@
 ---
 id: 546
-drupal_id: 
 title: Moana and Reading Scripture
 path: moana-and-reading-scripture
 created_at: 2017-06-22 00:24:17.134756000 Z
 updated_at: 2017-06-22 00:43:54.697437000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1498091152/usw80m1unk7gzabmoxgo.jpg
 categories:

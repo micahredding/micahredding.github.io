@@ -6,7 +6,6 @@ path: 2012/09/12/some-simulation-argument-flowcharts
 created_at: 2012-09-12 06:50:53.000000000 Z
 updated_at: 2017-04-14 14:27:58.621510000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453072424/simulation-argument.png
 categories:

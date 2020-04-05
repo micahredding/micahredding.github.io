@@ -6,7 +6,6 @@ path: 2014/12/05/open-letter-non-egalitarian-churches-christ
 created_at: 2014-12-05 19:24:53.000000000 Z
 updated_at: 2017-04-14 14:27:58.374521000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059698/unsplash_52dd4720e8387_1.jpg
 categories:

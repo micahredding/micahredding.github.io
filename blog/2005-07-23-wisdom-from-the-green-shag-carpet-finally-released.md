@@ -6,9 +6,7 @@ path: 2005/07/23/wisdom-from-the-green-shag-carpet-finally-released
 created_at: 2005-07-23 18:14:00.000000000 Z
 updated_at: 2011-08-21 04:09:21.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

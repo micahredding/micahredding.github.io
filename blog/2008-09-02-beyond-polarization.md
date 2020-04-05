@@ -6,9 +6,7 @@ path: 2008/09/02/beyond-polarization
 created_at: 2008-09-02 16:48:00.000000000 Z
 updated_at: 2012-03-09 05:48:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

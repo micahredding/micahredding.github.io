@@ -6,9 +6,7 @@ path: 2007/05/23/the-physics-of-immortality
 created_at: 2007-05-23 06:41:00.000000000 Z
 updated_at: 2011-10-10 03:03:58.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 tags:

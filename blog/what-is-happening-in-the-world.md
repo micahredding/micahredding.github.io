@@ -1,6 +1,5 @@
 ---
 id: 537
-drupal_id: 
 title: What is Happening in the World?
 path: what-is-happening-in-the-world
 created_at: 2017-02-01 14:40:01.212986000 Z

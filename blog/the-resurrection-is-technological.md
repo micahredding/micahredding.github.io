@@ -1,16 +1,17 @@
 ---
 id: 551
-drupal_id: 
 title: The Resurrection is Technological
 path: the-resurrection-is-technological
 created_at: 2017-09-28 17:06:03.626442000 Z
-updated_at: 2017-09-29 03:41:31.060110000 Z
+updated_at: 2018-05-29 17:50:17.430007000 Z
 promoted: true
 featured: true
 state: published
 main_image: v1506620939/etgittbk5xcb9ze4zyp3.jpg
 categories:
 - Transhuman
+series:
+- Resurrection
 ---
 In 1 Corinthians 15, Paul lays out an argument that many believe is at the heart of the Christian faith—an argument for the ultimate resurrection of all people, and the eradication of death itself.
 
@@ -50,21 +51,21 @@ This is part of what it means for humans to be made in the image of the creator.
 
 Psalm 8 reflects on this fact:
 
-> When I consider your heavens,
->     the work of your fingers,
-> the moon and the stars,
->     which you have set in place,
-> what is mankind that you are mindful of them,
->     human beings that you care for them?
-> You have made them a little lower than the angels
->     and crowned them with glory and honor.
-> **You made them rulers over the works of your hands;**
->     **you put everything under their feet**:
-> all flocks and herds,
->     and the animals of the wild,
-> the birds in the sky,
->     and the fish in the sea,
->     all that swim the paths of the seas. (Psalm 8:3-8)
+> When I consider your heavens,  
+>     the work of your fingers,  
+> the moon and the stars,  
+>     which you have set in place,  
+> what is mankind that you are mindful of them,  
+>     human beings that you care for them?  
+> You have made them a little lower than the angels  
+>     and crowned them with glory and honor.  
+> **You made them rulers over the works of your hands;**  
+>     **you put everything under their feet**:  
+> all flocks and herds,  
+>     and the animals of the wild,  
+> the birds in the sky,  
+>     and the fish in the sea,  
+>     all that swim the paths of the seas. (Psalm 8:3-8)  
 
 The psalmist evokes Genesis 1, and reflects poetically on the mystery of the human condition. The cosmos is wondrous, complex, and beautiful—and humankind is small, weak, and frail.
 
@@ -78,17 +79,17 @@ Nevertheless, God had promised that humanity would rule over all things, and God
 
 Hebrews 2 explains that this is the reason Christ had to come as a human. Christ would be the “true human”, the [first-fruits](https://www.biblegateway.com/passage/?search=Romans+8%3A29&version=NIV) of a renewed humanity, living out its dominion as God intended.
 
-> It is not to angels that he has subjected the world to come, about which we are speaking. But there is a place where someone has testified:
-> 
-> “What is mankind that you are mindful of them,
->     a son of man that you care for him?
-> You made them a little lower than the angels;
->     you crowned them with glory and honor
->     and *put everything under their feet*.”
-> 
-> **In putting everything under them, God left *nothing* that is not subject to them. Yet at present we do not see everything subject to them.** 
-> 
-> **But we do see Jesus…** (Hebrews 2:5-9)
+> It is not to angels that he has subjected the world to come, about which we are speaking. But there is a place where someone has testified:  
+>   
+> “What is mankind that you are mindful of them,  
+>     a son of man that you care for him?  
+> You made them a little lower than the angels;  
+>     you crowned them with glory and honor  
+>     and *put everything under their feet*.”  
+>  
+> **In putting everything under them, God left *nothing* that is not subject to them. Yet at present we do not see everything subject to them.**   
+>   
+> **But we do see Jesus…** (Hebrews 2:5-9)  
 
 As Hebrews puts it, quoting Psalm 8, there was nothing that had not been made subject to humanity. Yet, because of human error, that rule had never been clearly seen—until Jesus.
 

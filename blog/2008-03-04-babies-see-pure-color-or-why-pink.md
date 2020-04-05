@@ -6,9 +6,7 @@ path: 2008/03/04/babies-see-pure-color-or-why-pink
 created_at: 2008-03-04 21:38:00.000000000 Z
 updated_at: 2012-03-10 14:18:25.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

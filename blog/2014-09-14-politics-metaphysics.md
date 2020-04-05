@@ -6,7 +6,6 @@ path: 2014/09/14/politics-metaphysics
 created_at: 2014-09-15 03:46:44.000000000 Z
 updated_at: 2017-04-14 14:27:58.415926000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059717/Child_Standing_Near_Tree.jpg
 categories:

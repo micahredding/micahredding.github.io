@@ -6,9 +6,7 @@ path: 2008/10/16/the-new-mystics
 created_at: 2008-10-16 21:52:00.000000000 Z
 updated_at: 2016-01-10 17:42:50.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - christianity
 ---

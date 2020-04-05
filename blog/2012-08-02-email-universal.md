@@ -6,9 +6,7 @@ path: 2012/08/02/email-universal
 created_at: 2012-08-02 20:47:28.000000000 Z
 updated_at: 2012-08-02 20:51:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

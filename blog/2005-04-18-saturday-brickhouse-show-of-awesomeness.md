@@ -6,9 +6,7 @@ path: 2005/04/18/saturday-brickhouse-show-of-awesomeness
 created_at: 2005-04-18 14:58:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

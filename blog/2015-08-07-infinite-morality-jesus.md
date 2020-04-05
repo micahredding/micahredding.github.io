@@ -6,7 +6,6 @@ path: 2015/08/07/infinite-morality-jesus
 created_at: 2015-08-08 02:43:59.000000000 Z
 updated_at: 2017-04-14 14:27:58.304347000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059159/galaxyinfinitysign-l-207e7dde40f1cd10.jpg
 categories:

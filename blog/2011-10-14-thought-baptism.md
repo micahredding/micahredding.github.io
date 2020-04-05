@@ -5,10 +5,7 @@ title: Thought on baptism
 path: 2011/10/14/thought-baptism
 created_at: 2011-10-14 15:05:16.000000000 Z
 updated_at: 2011-12-06 15:34:51.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Non-Religious Christianity
 tags:

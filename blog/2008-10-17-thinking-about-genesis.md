@@ -6,9 +6,7 @@ path: 2008/10/17/thinking-about-genesis
 created_at: 2008-10-17 21:11:00.000000000 Z
 updated_at: 2011-08-21 03:39:21.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - theology
 - religion

@@ -6,7 +6,6 @@ path: 2013/08/03/leaving-church
 created_at: 2013-08-03 19:11:28.000000000 Z
 updated_at: 2017-04-14 14:27:58.482247000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059739/Leaving_Yerevan.jpg
 categories:

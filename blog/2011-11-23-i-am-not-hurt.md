@@ -6,9 +6,7 @@ path: 2011/11/23/i-am-not-hurt
 created_at: 2011-11-23 15:15:00.000000000 Z
 updated_at: 2014-09-28 22:21:38.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Non-Religious Christianity
 tags:

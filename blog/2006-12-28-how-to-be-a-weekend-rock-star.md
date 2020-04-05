@@ -6,9 +6,7 @@ path: 2006/12/28/how-to-be-a-weekend-rock-star
 created_at: 2006-12-28 07:09:00.000000000 Z
 updated_at: 2012-03-22 05:49:33.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

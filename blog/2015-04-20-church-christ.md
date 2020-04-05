@@ -6,7 +6,6 @@ path: 2015/04/20/church-christ
 created_at: 2015-04-20 18:36:43.000000000 Z
 updated_at: 2017-04-14 14:27:58.325811000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059643/ChurchOfChrist1.jpg
 categories:

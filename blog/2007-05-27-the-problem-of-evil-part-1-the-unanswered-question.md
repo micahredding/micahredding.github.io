@@ -6,9 +6,7 @@ path: 2007/05/27/the-problem-of-evil-part-1-the-unanswered-question
 created_at: 2007-05-27 18:31:00.000000000 Z
 updated_at: 2012-03-22 05:56:12.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

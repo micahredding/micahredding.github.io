@@ -1,6 +1,5 @@
 ---
 id: 550
-drupal_id: 
 title: 'Two Kinds of Power: Why Fascists Can''t Make Art'
 path: two-kinds-of-power
 created_at: 2017-09-06 14:29:27.812790000 Z

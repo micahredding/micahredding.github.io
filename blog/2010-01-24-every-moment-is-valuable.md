@@ -6,9 +6,7 @@ path: 2010/01/24/every-moment-is-valuable
 created_at: 2010-01-25 04:30:35.000000000 Z
 updated_at: 2012-03-09 05:33:52.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

@@ -1,4 +1,5 @@
 ---
+id: 558
 title: Mary, Mother of God, Catholic Transhumanist Wonder Woman
 path: mary-mother-of-god
 created_at: 2018-03-08 18:00:00.000000000 Z
@@ -7,7 +8,6 @@ promoted: true
 featured: true
 state: published
 main_image: v1520550780/mary_takeoff.jpg
-id: 558
 ---
 The more I am exposed to the Catholic aesthetic, the more I understand that for the ancient church, Mary was sort of like Wonder Woman, working against the power of Kings and Empires to smuggle the divine into the world.
 

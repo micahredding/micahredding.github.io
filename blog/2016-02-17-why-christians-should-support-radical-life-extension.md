@@ -1,10 +1,9 @@
 ---
 id: 484
-drupal_id: 
 title: Why Christians Should Support Radical Life Extension
 path: 2016/02/17/why-christians-should-support-radical-life-extension
 created_at: 2016-02-17 16:09:47.848621000 Z
-updated_at: 2017-11-10 03:44:53.361325000 Z
+updated_at: 2018-05-23 05:20:23.638111000 Z
 promoted: true
 featured: true
 state: published
@@ -81,3 +80,7 @@ Third, it would relieve vast amounts of human suffering — the currently unavoi
 Fourth, it would improve the depth and wisdom and resilience of our culture. 
 
 And finally, it is exactly what the prophet Isaiah hoped and longed for — a day when everyone would get to see their grandchildren and their grandchildren’s grandchildren — a day when your hundredth birthday meant you were just a child.
+
+-
+
+*[Published at Huffington Post](https://www.huffingtonpost.com/micah-redding/why-christians-should-sup_1_b_9190470.html)*

@@ -6,9 +6,7 @@ path: 2008/09/04/unintended-consequences
 created_at: 2008-09-04 16:34:00.000000000 Z
 updated_at: 2012-03-09 05:47:27.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

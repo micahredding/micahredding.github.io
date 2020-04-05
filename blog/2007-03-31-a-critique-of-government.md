@@ -6,9 +6,7 @@ path: 2007/03/31/a-critique-of-government
 created_at: 2007-03-31 14:40:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - christianity
 - politics

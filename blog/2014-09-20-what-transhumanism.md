@@ -5,10 +5,7 @@ title: What is Transhumanism?
 path: 2014/09/20/what-transhumanism
 created_at: 2014-09-21 01:06:19.000000000 Z
 updated_at: 2014-09-28 22:28:08.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 - Christian Transhumanism

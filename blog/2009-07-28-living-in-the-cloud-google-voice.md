@@ -6,9 +6,7 @@ path: 2009/07/28/living-in-the-cloud-google-voice
 created_at: 2009-07-29 02:23:10.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

@@ -6,7 +6,6 @@ path: 2014/09/18/hardest-thing-believe
 created_at: 2014-09-19 04:20:08.000000000 Z
 updated_at: 2017-04-14 14:27:58.402033000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453059712/resurrection-.jpg
 categories:

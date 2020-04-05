@@ -6,9 +6,7 @@ path: 2012/02/13/existence-god
 created_at: 2012-02-13 16:27:50.000000000 Z
 updated_at: 2012-11-27 14:30:22.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 ---

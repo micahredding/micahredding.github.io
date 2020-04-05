@@ -6,9 +6,7 @@ path: 2004/06/10/free-copy-of-redding-brothers-sneak-peak-release-06092004
 created_at: 2004-06-10 07:25:00.000000000 Z
 updated_at: 2011-11-02 22:11:25.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

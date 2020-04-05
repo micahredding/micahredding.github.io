@@ -6,9 +6,7 @@ path: 2007/12/28/im-not-there-bob-dylan-and-the-spirit
 created_at: 2007-12-28 14:19:00.000000000 Z
 updated_at: 2012-03-22 06:04:05.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

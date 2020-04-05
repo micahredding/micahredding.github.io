@@ -6,9 +6,7 @@ path: 2008/09/30/a-biblical-pattern
 created_at: 2008-09-30 20:35:00.000000000 Z
 updated_at: 2011-08-21 03:40:28.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - theology
 - religion

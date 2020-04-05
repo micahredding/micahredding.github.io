@@ -5,10 +5,7 @@ title: There Is No Hell (part 2) - The Scriptures, Waiting Around
 path: 2008/09/15/there-no-hell-part-2-scriptures-waiting-around
 created_at: 2008-09-15 15:32:54.000000000 Z
 updated_at: 2014-09-22 21:56:22.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

@@ -5,10 +5,7 @@ title: Walter Wink
 path: 2012/03/22/walter-wink
 created_at: 2012-03-22 22:31:18.000000000 Z
 updated_at: 2014-09-28 22:19:51.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 series:

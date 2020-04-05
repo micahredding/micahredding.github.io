@@ -6,9 +6,7 @@ path: 2012/01/09/religion-practice
 created_at: 2012-01-09 14:09:19.000000000 Z
 updated_at: 2014-01-01 18:26:21.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Non-Religious Christianity
 series:

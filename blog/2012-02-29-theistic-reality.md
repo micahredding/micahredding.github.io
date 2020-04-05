@@ -5,10 +5,7 @@ title: Theistic Reality
 path: 2012/02/29/theistic-reality
 created_at: 2012-02-29 21:52:51.000000000 Z
 updated_at: 2014-09-28 22:30:30.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 series:

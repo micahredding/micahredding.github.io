@@ -6,9 +6,7 @@ path: 2008/03/02/the-rules-of-pull-throughs
 created_at: 2008-03-02 07:00:00.000000000 Z
 updated_at: 2012-03-22 06:05:39.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

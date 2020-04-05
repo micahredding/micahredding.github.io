@@ -6,7 +6,6 @@ path: 2012/12/24/argument-basic-theism
 created_at: 2012-12-24 07:00:33.000000000 Z
 updated_at: 2017-04-14 14:27:58.583701000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453076427/1.jpg
 categories:

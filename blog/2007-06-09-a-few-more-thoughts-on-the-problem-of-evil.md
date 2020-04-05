@@ -6,9 +6,7 @@ path: 2007/06/09/a-few-more-thoughts-on-the-problem-of-evil
 created_at: 2007-06-09 15:56:00.000000000 Z
 updated_at: 2011-12-24 22:57:27.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

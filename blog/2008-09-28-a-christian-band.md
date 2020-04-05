@@ -6,9 +6,7 @@ path: 2008/09/28/a-christian-band
 created_at: 2008-09-29 03:53:13.000000000 Z
 updated_at: 2012-09-13 00:52:21.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

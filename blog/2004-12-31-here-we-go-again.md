@@ -6,9 +6,7 @@ path: 2004/12/31/here-we-go-again
 created_at: 2004-12-31 22:58:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

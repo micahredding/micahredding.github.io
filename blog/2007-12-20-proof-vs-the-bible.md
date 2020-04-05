@@ -6,9 +6,7 @@ path: 2007/12/20/proof-vs-the-bible
 created_at: 2007-12-20 17:06:00.000000000 Z
 updated_at: 2012-03-22 06:03:23.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

@@ -5,10 +5,7 @@ title: The beginning of thought
 path: 2011/10/18/beginning-thought
 created_at: 2011-10-18 17:10:05.000000000 Z
 updated_at: 2014-09-28 22:36:42.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 ---

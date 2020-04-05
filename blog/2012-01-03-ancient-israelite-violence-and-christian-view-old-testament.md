@@ -6,9 +6,7 @@ path: 2012/01/03/ancient-israelite-violence-and-christian-view-old-testament
 created_at: 2012-01-03 06:56:47.000000000 Z
 updated_at: 2012-01-03 07:04:57.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 series:

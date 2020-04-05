@@ -6,9 +6,7 @@ path: 2012/02/14/solipsists-fallacy
 created_at: 2012-02-14 16:13:56.000000000 Z
 updated_at: 2012-11-27 14:30:50.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

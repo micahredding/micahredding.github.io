@@ -5,10 +5,7 @@ title: Christianity & Transhumanism
 path: christianity-and-transhumanism
 created_at: 2015-05-11 13:25:56.000000000 Z
 updated_at: 2016-02-08 21:40:08.242270000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 ---
 What does Christianity have to say about radical life extension? Cyborgs? Artificial Intelligence? 
 

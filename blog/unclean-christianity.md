@@ -1,12 +1,10 @@
 ---
 id: 531
-drupal_id: 
 title: Unclean Christianity
 path: unclean-christianity
 created_at: 2016-12-05 07:28:07.309125000 Z
 updated_at: 2017-04-14 14:28:00.374296000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1480923999/iamy0olq6rywd9tiqvbh.jpg
 categories:

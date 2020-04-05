@@ -6,9 +6,7 @@ path: 2008/11/09/christianity-in-my-life
 created_at: 2008-11-10 01:01:00.000000000 Z
 updated_at: 2014-01-01 18:25:33.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Non-Religious Christianity
 tags:

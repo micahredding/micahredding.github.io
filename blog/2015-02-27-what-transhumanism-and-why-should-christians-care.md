@@ -6,7 +6,6 @@ path: 2015/02/27/what-transhumanism-and-why-should-christians-care
 created_at: 2015-02-27 06:36:56.000000000 Z
 updated_at: 2017-11-10 02:23:51.812103000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1453178674/30_Doradus__Tarantula_Nebula.jpg
 categories:

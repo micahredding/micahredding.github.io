@@ -6,9 +6,7 @@ path: 2006/11/15/whats-your-autism-quotient
 created_at: 2006-11-16 03:36:00.000000000 Z
 updated_at: 2013-01-11 06:28:44.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

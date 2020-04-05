@@ -6,7 +6,6 @@ path: 2012/03/12/ancient-israel-vs-blood-gods
 created_at: 2012-03-12 14:06:38.000000000 Z
 updated_at: 2017-04-14 14:27:58.756749000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060272/combat-between-the-monster-tiamat.jpg
 categories:

@@ -6,9 +6,7 @@ path: 2012/04/17/singularity-why-future-closer-you-think
 created_at: 2012-04-17 15:35:34.000000000 Z
 updated_at: 2012-11-27 14:30:07.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 ---

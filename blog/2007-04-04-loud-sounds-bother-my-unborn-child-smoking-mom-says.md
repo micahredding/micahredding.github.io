@@ -6,9 +6,7 @@ path: 2007/04/04/loud-sounds-bother-my-unborn-child-smoking-mom-says
 created_at: 2007-04-04 20:53:00.000000000 Z
 updated_at: 2011-08-21 04:06:05.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - smoking
 - politics

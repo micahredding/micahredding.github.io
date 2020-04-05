@@ -6,9 +6,7 @@ path: 2011/12/09/christianity-hard
 created_at: 2011-12-09 17:33:00.000000000 Z
 updated_at: 2014-09-28 22:31:38.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

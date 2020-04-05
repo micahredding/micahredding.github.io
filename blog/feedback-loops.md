@@ -1,12 +1,10 @@
 ---
 id: 555
-drupal_id: 
 title: Feedback Loops
 path: feedback-loops
 created_at: 2018-02-13 22:13:36.440873000 Z
 updated_at: 2018-02-14 00:39:36.365728000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1518568771/f6ldx4n0mgwmo5jbvzqn.jpg
 categories:

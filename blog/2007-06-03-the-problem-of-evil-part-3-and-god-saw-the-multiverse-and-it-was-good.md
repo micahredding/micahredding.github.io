@@ -6,9 +6,7 @@ path: 2007/06/03/the-problem-of-evil-part-3-and-god-saw-the-multiverse-and-it-wa
 created_at: 2007-06-04 04:37:00.000000000 Z
 updated_at: 2012-03-22 05:57:11.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

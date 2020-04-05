@@ -6,9 +6,7 @@ path: 2005/02/13/morp-hurricane-highschool
 created_at: 2005-02-13 20:00:00.000000000 Z
 updated_at: 2014-09-24 16:02:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

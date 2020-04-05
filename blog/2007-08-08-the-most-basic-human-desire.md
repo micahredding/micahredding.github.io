@@ -6,9 +6,7 @@ path: 2007/08/08/the-most-basic-human-desire
 created_at: 2007-08-08 22:48:00.000000000 Z
 updated_at: 2012-03-09 06:18:30.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

@@ -6,9 +6,7 @@ path: 2010/05/01/in-the-first-century
 created_at: 2010-05-01 05:11:05.000000000 Z
 updated_at: 2012-01-04 14:55:39.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

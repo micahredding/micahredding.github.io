@@ -6,7 +6,6 @@ path: 2015/03/22/against-consumerism
 created_at: 2015-03-23 04:41:34.000000000 Z
 updated_at: 2017-11-10 02:25:12.020643000 Z
 promoted: true
-featured: false
 state: published
 main_image: v1453059663/4190382078_47a3f2e819_o.jpg
 categories:

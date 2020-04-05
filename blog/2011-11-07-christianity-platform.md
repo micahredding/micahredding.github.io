@@ -6,7 +6,6 @@ path: 2011/11/07/christianity-platform
 created_at: 2011-11-08 02:40:18.000000000 Z
 updated_at: 2017-04-14 14:27:59.031563000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1453060316/Troll_A_Platform.jpg
 categories:

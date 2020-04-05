@@ -4,11 +4,8 @@ drupal_id: 4420
 title: There Is No Hell (part 6), Conclusion
 path: 2008/09/15/there-no-hell-part-6-conclusion
 created_at: 2008-09-15 20:29:32.000000000 Z
-updated_at: 2012-03-16 21:12:35.000000000 Z
-promoted: false
-featured: false
+updated_at: 2019-04-29 16:43:22.942643000 Z
 state: published
-main_image: 
 categories:
 - Theology
 tags:
@@ -49,7 +46,7 @@ Homer Hailey from Florida College taught this belief.
 
 Most notably, Edward Fudge from the Bering Drive Church of Christ in Houston, wrote a book in the early 1990s entitled "The Fire That Consumes".
 
-"The Fire That Consumes" is universally recognized among all biblical scholars to be the most comprehensive and authoritative book on the subject of "annihilationism" or "conditionalism" ever written.
+"The Fire That Consumes" is recognized among biblical scholars to be the most comprehensive and authoritative book on the subject of "annihilationism" or "conditionalism" ever written.
 
 Here is a summary of his belief. <a href="http://www.theexaminer.org/volume1/number4/hell.htm">Part 1</a>, <a href="http://www.theexaminer.org/volume1/number6/hell.htm">Part 2</a>.
 

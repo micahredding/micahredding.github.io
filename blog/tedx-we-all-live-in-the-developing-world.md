@@ -1,12 +1,10 @@
 ---
 id: 498
-drupal_id: 
 title: 'My TEDx talk: We All Live in the Developing World'
 path: tedx-we-all-live-in-the-developing-world
 created_at: 2016-08-25 21:38:29.622608000 Z
 updated_at: 2017-04-14 14:28:00.353444000 Z
 promoted: true
-featured: false
 state: published
 main_image: image/upload/v1472253728/uev2a1oysdhkxcd0wfp1.jpg
 categories:

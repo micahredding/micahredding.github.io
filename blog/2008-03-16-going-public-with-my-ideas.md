@@ -6,9 +6,7 @@ path: 2008/03/16/going-public-with-my-ideas
 created_at: 2008-03-16 07:59:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - rock band
 - music

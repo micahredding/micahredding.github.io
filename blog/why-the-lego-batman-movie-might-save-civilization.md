@@ -1,6 +1,5 @@
 ---
 id: 540
-drupal_id: 
 title: Why the Lego Batman Movie might Save Civilization
 path: why-the-lego-batman-movie-might-save-civilization
 created_at: 2017-02-13 20:51:14.561535000 Z

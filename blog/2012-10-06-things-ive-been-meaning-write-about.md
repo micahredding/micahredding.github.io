@@ -6,9 +6,7 @@ path: 2012/10/06/things-ive-been-meaning-write-about
 created_at: 2012-10-06 14:43:29.000000000 Z
 updated_at: 2012-10-06 14:44:53.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 ---

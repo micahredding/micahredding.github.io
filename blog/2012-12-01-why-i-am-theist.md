@@ -6,9 +6,7 @@ path: 2012/12/01/why-i-am-theist
 created_at: 2012-12-02 05:52:03.000000000 Z
 updated_at: 2012-12-02 06:13:49.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 ---

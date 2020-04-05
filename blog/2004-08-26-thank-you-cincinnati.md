@@ -6,9 +6,7 @@ path: 2004/08/26/thank-you-cincinnati
 created_at: 2004-08-26 07:28:00.000000000 Z
 updated_at: 2011-08-20 03:36:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

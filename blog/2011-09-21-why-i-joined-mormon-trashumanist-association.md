@@ -6,9 +6,7 @@ path: 2011/09/21/why-i-joined-mormon-trashumanist-association
 created_at: 2011-09-22 02:46:55.000000000 Z
 updated_at: 2011-10-10 03:03:31.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 tags:

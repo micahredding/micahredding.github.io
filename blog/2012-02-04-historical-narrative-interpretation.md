@@ -5,10 +5,7 @@ title: Historical Narrative Interpretation
 path: 2012/02/04/historical-narrative-interpretation
 created_at: 2012-02-04 16:30:38.000000000 Z
 updated_at: 2014-09-28 22:30:35.000000000 Z
-promoted: false
-featured: false
 state: published
-main_image: 
 categories:
 - Extras & Experiments
 series:

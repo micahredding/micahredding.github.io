@@ -6,9 +6,7 @@ path: 2010/10/31/philosophy-of-information
 created_at: 2010-10-31 06:06:57.000000000 Z
 updated_at: 2011-10-10 03:03:46.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Transhuman
 tags:

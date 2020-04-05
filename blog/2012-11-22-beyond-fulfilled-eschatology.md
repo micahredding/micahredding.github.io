@@ -6,9 +6,7 @@ path: 2012/11/22/beyond-fulfilled-eschatology
 created_at: 2012-11-23 04:51:35.000000000 Z
 updated_at: 2012-11-23 04:56:22.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 series:

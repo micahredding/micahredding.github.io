@@ -6,9 +6,7 @@ path: 2011/07/07/jesus-identifies
 created_at: 2011-07-07 15:50:05.000000000 Z
 updated_at: 2012-01-04 14:54:11.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Theology
 tags:

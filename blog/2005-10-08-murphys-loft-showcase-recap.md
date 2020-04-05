@@ -6,9 +6,7 @@ path: 2005/10/08/murphys-loft-showcase-recap
 created_at: 2005-10-09 00:27:00.000000000 Z
 updated_at: 2011-10-06 02:19:36.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 tags:
 - Uncategorized
 ---

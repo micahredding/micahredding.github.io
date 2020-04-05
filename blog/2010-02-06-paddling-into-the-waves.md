@@ -6,9 +6,7 @@ path: 2010/02/06/paddling-into-the-waves
 created_at: 2010-02-07 05:10:31.000000000 Z
 updated_at: 2012-03-09 05:32:37.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 tags:

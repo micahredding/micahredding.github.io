@@ -6,9 +6,7 @@ path: 2010/04/16/the-structure-of-human-hope
 created_at: 2010-04-16 23:23:55.000000000 Z
 updated_at: 2012-03-10 13:52:22.000000000 Z
 promoted: true
-featured: false
 state: published
-main_image: 
 categories:
 - Human
 - Transhuman
