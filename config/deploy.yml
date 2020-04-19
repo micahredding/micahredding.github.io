@@ -1,8 +1,0 @@
-production:
-  domain:
-  - name: "bricksco@bricksites.com"
-    ssh_options:
-    - "-p 2222"
-  deploy_to: "~/public_html/brickcaster.resources/micah/"
-  repository: "git@github.com:micahredding/content.git"
-  branch: "master"
