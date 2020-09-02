@@ -93,6 +93,9 @@ ul.series-list {
   margin-top: 0;
 }
 
+.main-image img {
+  margin: 1rem 0;
+}
 img {
   max-width: 100%;
   height: auto;
