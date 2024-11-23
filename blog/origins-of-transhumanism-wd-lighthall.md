@@ -1,5 +1,5 @@
 ---
-title: 'Origins of Transhumanism: W.D. Lighthall' 
+title: Origins of Transhumanism: W.D. Lighthall
 path: origins-of-transhumanism-wd-lighthall 
 created_at: 2021-02-09 17:24:00
 updated_at: 2021-02-09 17:24:00
