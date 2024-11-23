@@ -1,5 +1,5 @@
 ---
-title: Teleology & Simulation (draft)
+title: Teleology & Simulation (d)
 path: teleology-and-simulation
 created_at: 2020-02-20 10:24:00
 updated_at: 2020-02-20 10:24:00
