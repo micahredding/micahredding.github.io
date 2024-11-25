@@ -1,0 +1,10 @@
+{% for item in site.data.navigation.main %}
+    {% assign class = nil %}
+    {% if page.url contains item.url %}
+        {% assign class = 'active' %}
+    {% endif %}
+    {% if item.class %}
+        {% assign class = item.class %}
+    {% endif %}
+    <a href="{{ item.url | relative_url }}" class="page-link {{ class }}">{{ item.title }}</a>
+{% endfor %}
