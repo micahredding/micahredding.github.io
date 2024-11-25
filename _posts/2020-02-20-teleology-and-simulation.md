@@ -1,5 +1,5 @@
 ---
-title: Teleology & Simulation (d)
+title: Teleology & Simulation
 permalink: /blog/teleology-and-simulation/
 created_at: 2020-02-20 10:24:00
 updated_at: 2020-02-20 10:24:00
