@@ -1,0 +1,10 @@
+main:
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Wiki"
+    url: "https://notes.micahredding.com"
+  - title: "Podcast"
+    url: "http://brickcaster.com/christiantranshumanist"
+  - title: "Get the TedX Talk"
+    url: "http://eepurl.com/harg5r"
+    class: "cta-button"
